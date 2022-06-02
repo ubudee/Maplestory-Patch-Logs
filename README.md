@@ -1,5 +1,1120 @@
 <details>
      <summary>
+            1.74
+     </summary>
+ 
+     - New Content: Heroes of Maple
+     - Heroes of Maple Act 1: Slumbering Dragon Island
+     - Heroes of Maple Act 1.5: Reunion
+     - Heroes of Maple Act 2: Abraxas
+     - Job Revamps 
+     - Job Revamps Balance Changes
+     - Job Revamps Aran
+     - Job Revamps Evan
+     - Job Revamps Explorer
+     - Job Revamps Explorer Warrior
+     - Job Revamps Hero
+     - Job Revamps Paladin
+     - Job Revamps Dark Knight
+     - Job Revamps Explorer Magician
+     - Job Revamps Arch Mage (Fire, Poison)
+     - Job Revamps Arch Mage (Ice, Lightning)
+     - Job Revamps Bishop
+     - Job Revamps Bowmaster
+     - Job Revamps Marksman
+     - Job Revamps Night Lord
+     - Job Revamps Shadower
+     - Job Revamps Dual Blade
+     - Job Revamps Explorer Pirate
+     - Job Revamps Buccaneer
+     - Job Revamps Corsair
+     - Job Revamps Cannoneer
+     - Job Revamps Cygnus Knight
+     - Job Revamps Dawn Warrior
+     - Job Revamps Wind Archer
+     - Job Revamps Night Walker
+     - Job Revamps Thunder Breaker
+     - Job Revamps Hero
+     - Job Revamps Mercedes
+     - Job Revamps Phantom
+     - Job Revamps Shade
+     - Job Revamps Luminous
+     - Job Revamps Demon Slayer
+     - Job Revamps Demon Avenger
+     - Job Revamps Resistance
+     - Job Revamps Battle Mage
+     - Job Revamps Wild Hunter
+     - Job Revamps Mechanic
+     - Job Revamps Xenon
+     - Job Revamps Mihile
+     - Job Revamps Kaiser
+     - Job Revamps Angelic Buster
+     - Job Revamps Zero
+     - Job Revamps Kinesis
+     - Bug Fixes
+     - Black Heaven Reborn
+     - Monster Park Reborn
+     - Monster Collection
+     - Premium Surprise Style Box Stamp Exchange
+     - Bounty Hunter Brothers Additions
+     - Maple Runner
+     - Heroes of Maple Events
+     - Heroes Box
+     - Heroes Coin Shop
+     - Aran Level-Up Event
+     - Evan Level-Up Event
+     - Luminous Level-Up Event
+     - Mercedes Level-Up Event
+     - Phantom Level-Up Event
+     - Shade Level-Up Event
+     - Heroes of Maple Clear Event
+     - Heroes Ring Event
+     - Other New Events
+     - Hot Time
+     - Black Heaven Reborn Event
+     - 2x EXP & Drop Weekends
+     - Burning Project
+     - Zero Character Creation
+     - Spiegelmann Express
+     - Spell Trace Fever Time
+     - Maple Runner Ranking Event
+     - Tinkerer’s Chest
+     - Hot Week
+     - Hot Week 2
+     - Hot Week 3
+</details>
+
+<details>
+     <summary>
+            1.73
+     </summary>
+ 
+     - Stellar Detectives quest line has been added
+     - Hyperspace Cube has been added
+
+</details>
+
+<details>
+     <summary>
+            1.72
+     </summary>
+ 
+     - Many classes have received skill changes to balance them
+     - Zakum has been revamped
+     - Easy mode Empress has been added
+     - Bounty Hunter Portals have been added
+     - Rune of Hordes, Skill, and Barrage have been added
+     - Rune of Decay has been removed
+     - Transfer hammer has been updated
+     - Combo orbs now give more EXP
+     - Sudden missions now give more exp and spell traces
+     - Mu Lung Dojo has been updated
+     - Dimensional Mirror has been removed from Ellinia, Period, Kerning City, and Lith Harbor
+     - Final damage has been removed from the calculation of damage stat
+
+</details>
+
+<details>
+     <summary>
+            1.71
+     </summary>
+ 
+     - Mastera Through Time parts 1 and 2 have been added
+     - Masteria quests now give new equipment
+     - Masteria has been revamped
+     - Beasts of Fury 2 has been added
+     - Shaolin Temple Theme Dungeon has been added
+     - Shanghai has been added
+
+</details>
+
+<details>
+     <summary>
+            1.70
+     </summary>
+ 
+     - Ursus the Mighty has been added to the game
+     - Korean Folk Town has been revamped
+     - Spiegelmann's Ghost Park has been added to the game
+     - MapleTV has been removed from the Free Market
+
+</details>
+
+<details>
+     <summary>
+            1.69
+     </summary>
+ 
+     - Kinesis has been added to the game
+     - Mu Lung Dojo has been revamped
+
+</details>
+
+<details>
+     <summary>
+            1.68
+     </summary>
+ 
+     - Most jobs have a skill change of some sort
+     - Reboot Server added to the list of current worlds
+     - Battle Analysis system has been added to the game
+     - Hyper Stat system has been revamped
+     - Transfer hammer has been added to the game
+     - More Star Force maps have been added to the game
+     - Theme dungeons below level 100 now have new rewards
+     - Mastery books can now be acquired more easily
+     - Owl on Minerva can now search for tradable cash shop items
+
+</details>
+
+<details>
+     <summary>
+            1.67
+     </summary>
+ 
+     - Alishan has been added to the game
+     - Hackshield is no longer integrated with MapleStory(removed)
+
+</details>
+
+<details>
+     <summary>
+            1.66
+     </summary>
+ 
+     - Kanna received a minor revamp
+     - Hayato received a minor revamp
+     - You can hide visual effects for items in the equipment tab (equip effects)
+     - Tot's Know-how has been revamped
+     - Feedback Survey System has been added to the game on log out
+
+</details>
+
+<details>
+     <summary>
+            1.63
+     </summary>
+ 
+     - Beast Tamer has many skill changes (huge buffs)
+     - Buccaneer, Corsair, Kaiser, Xenon, Marksman, Mercedes, and Paladin have minor skill changes
+     - Certain skills have auto activation (on/off) enabled for them
+     - Blackgate City has been added to the dimensional mirror
+     - Scrapyard is now accessable via Edelstein
+     - Chapter 6 of FriendStory is now available
+     - Damage skin storage system added
+     - Maple Rewards UI added
+     - Pierre, VonBon, Queen, Vellum, and Lotus now drop Soul Shards
+
+</details>
+
+<details>
+     <summary>
+            1.62
+     </summary>
+ 
+     - 2x EXP coupons no longer have purchase restrictions between levels 201-249
+     - 2x Drop/EXP events will now display a banner when they are active
+
+</details>
+
+<details>
+     <summary>
+            1.61
+     </summary>
+ 
+     - Black Heaven acts 5 and 6 have been added
+     - Lotus (boss) has been added
+     - Party Quest EXP has been increased
+     - Channels have been added to Dimension Invasion and Evolution System
+
+</details>
+
+<details>
+     <summary>
+            1.60
+     </summary>
+ 
+     - Battle Mage has been revamped
+     - Wild Hunter has been revamped
+     - Mechanic has been revamped
+     - Dual Blade, Buccaneer, Corsair, Mercedes, Demon Avenger, Demon Slayer, and Angelic buster have minor skill changes
+     - Black Heaven acts 1, 2, 3, and 4 have been added to the game
+     - Maple Talk has been added to the game
+     - Medals of Honor dropped by bosses give 20x the honor EXP
+     - Maple Reward point cap has been increased
+     - Drop rates for cubes have been increased
+     - Rank up rates for all cubes have been increased
+     - Star Planet has minor changes
+
+</details>
+
+<details>
+     <summary>
+            1.58
+     </summary>
+ 
+     - Star Planet has been added to the game
+     - Maple Rewards System has been added to the game
+
+</details>
+
+<details>
+     <summary>
+            1.57
+     </summary>
+ 
+     - Minor skill changes for most classes
+     - Bowmasters have arrow blaster moved to 3rd job
+     - Star Force maps have been added to the game
+     - Star Force Enhancement has been added to the game
+     - New weapons and armors have been added to the game (utgard weapons/pensalir armors)
+     - New boss accessories have been added to the game
+     - Evolution System has been revamped (nerfed)
+     - Lion King Castle has been changedslightly
+     - Blacklisting has been slightly improved
+     - Offline status has been slightly improved
+     - Easy horntail has been added, Horntail prequests made easier
+     - Easy Magnus has been made easier
+     - Normal magnus resets at midnight (Pacific)
+     - Hard Magnus resets every Thursday (pacific)
+     - Pink bean can only be entered once a day
+     - Easy Von Leon has been made easier
+     - Mastery book prices have been lowered
+     - Elite Monsters have been changed slightly
+
+</details>
+
+<details>
+     <summary>
+            1.56
+     </summary>
+ 
+     - Night Walker has been revamped and now has a level cap of 250
+     - Friendstory has been added into the game
+     - Theme Dungeon: Mushroom Castle has been added into the game
+     - Mr. Lee Airlines has been added into the game
+     - Characters now have a 24 hour cooldown before you can delete them above level 31.
+     - Buff duration added to buff icons
+     - Guild Search function has been added
+
+</details>
+
+<details>
+     <summary>
+            1.54
+     </summary>
+ 
+     - Blaze Wizard has been revamped and now has a level cap of 250
+     - Boss tab replaces Expedition tab, allows for boss teleporting
+     - Horntail can now be killed solo
+
+</details>
+
+<details>
+     <summary>
+            1.52
+     </summary>
+ 
+     - Jett has been Revamped
+     - Hieizan Temple has been added
+     - Princess No.(Boss) has been added
+     - Kritias has been added
+     - Mori Ranmaru has had his drop list updated
+     - Nebulites have a slightly higher chance of dropping from bosses
+     - Japanese Myth items are now tradable until equipped
+
+</details>
+
+<details>
+     <summary>
+            1.51
+     </summary>
+ 
+     - Shade is added to the game
+     - Nebulite box drop rate has been increased in bosses and monsters
+     - Elite monsters have a chance to drop safety scrolls
+     - Normal and Chaos Horntail have had their drop restrictions removed
+     - Tower of Oz has been added into the game
+
+</details>
+
+<details>
+     <summary>
+            1.50
+     </summary>
+ 
+     - Instant KO chance is lowered in skills across the board
+     - Dual Blade, Cannoneer, Evan, Luminous, Mercedes, Phantom, Demon Avenger, Demon Slayer, Xenon, have skill changes (minor buff)
+     - Dawn Warrior, Thunder Breaker, Wind Archer, Mechanic, Kaiser, Angelic Buster, have skill changes (decent buff)
+     - Aran has skill changes (Huge buff)
+     - Evans no longer need to complete quests to obtain SP needed for skills
+     - Magicians can use teleport mid-air
+     - Kanna and Hayato have had their story quests adjusted slightly
+     - Elite monsters are added into the game
+     - Elite bosses are added into the game
+     - Party invite will appear when entering a map with another character in a similar level range
+     - More than 999 Ability Points can be invested in a single stat now
+     - Spell Traces are now available to enhance equipment
+     - Runes have been added into the game
+     - Several level 20-100 equipments have set bonuses now
+     - Hidden potential level will display on the field via an aura around the equipment
+     - Inner ability has been changed slightly
+     - Account Buddy System added to the Buddy System
+     - Auto All-Cure is now available for pets
+     - Monster levels below 140 have been adjusted as well as HP/EXP
+     - Easy mode Zakum can be attempted at level 50
+     - Normal and Chaos mode Zakum can be attempted at 90
+
+</details>
+
+<details>
+     <summary>
+            v1.49
+     </summary>
+ 
+     - Wild Hunter has skill changes (minor buff)
+     - Night Lord has skill changes
+     - Demon Avenger has skill changes (minor buff)
+     - Kaiser has skill changes (minor buff)
+     - Demon Slayer has skill changes (minor buff)
+     - Mihile has skill changes (huge buff)
+     - Mechanic has skill changes (minor buff)
+     - Mercedes has skill changes (minor buff)
+     - Evan has skill changes (Huge buff)
+     - Bowmaster has skill changes (decent buff)
+     - Kanna has skill changes (small nerf to kishin)
+     - Jett has skill changes (minor buff)
+     - Soul Weapons are added into the game
+     - Guild System has been revamped
+     - Flag Race has been added into the game
+     - Lion King Castle has been updated
+     - Cross World Party Quest has been updated
+     - Cubes chance to tier up have been increased across the board
+     - Meister and Master Craftsman Cubes are now obtainable from certain bosses
+     - Certain bosses have a chance of dropping a Golden Hammer (100%)
+     - Pets have been revamped
+     - Family system has been removed, with some skills going into guild system
+     - New Shortcut Keys are added
+     - Some item names have been changed
+
+</details>
+
+<details>
+     <summary>
+            1.48
+     </summary>
+ 
+     - Cannoneer is revamped
+     - Dual Blade is revamped
+     - Battle Mage has skill changes
+     - Evan has skill changes
+     - Luminous has skill changes
+     - Mechanic has skill changes
+     - Mercedes has skill changes
+     - Phantom has a skill changes
+     - Wild Hunter has a new Jaguar + skill changes
+     - Boss arena has been added
+     - Cross World Party Quests have been added
+     - Grand Athenaeum dungeon has been added
+     - Item inventory is reverted to its old form, but with 2 different sizes
+     - Equipment inventory has been revamped completely
+     - Storage inventory has been expanded to show multiple items
+     - Character stats have been made more compact
+     - Skill inventory is reverted for all classes excluding Beast Tamers and Evans
+
+</details>
+
+<details>
+     <summary>
+            1.46
+     </summary>
+ 
+     - Masteria and its quest line have been updated
+     - Merchant Union has been updated
+     - World Tour locations (Ninja Castle, Malaysia, Singapore) have had their drops updated)
+
+</details>
+
+<details>
+     <summary>
+            1.45
+     </summary>
+ 
+     - Beast Tamer is added
+     - Ninja Castle has been updated
+     - Malaysia quest line has been updated
+     - Singapore quest line has been updated
+
+</details>
+
+<details>
+     <summary>
+            1.44
+     </summary>
+ 
+     - Zero has been added
+     - Commerci has been added
+
+</details>
+
+<details>
+     <summary>
+            1.43
+     </summary>
+ 
+     - Explorer classes have been revamped
+     - Explorers can job change to another job of the same time starting at level 101
+     - Professions have been revamped
+     - Mastery books have been revamped
+     - Several NPCs have been removed from towns and are now located in the event hall
+     - Occult cubes no longer drop from bosses
+     - An episode book has been added to keep a log of events and quests
+     - Monster Life has received a minor update
+     - A new potential tier has been added for 151+ items
+     - Smart Mounts have been added into the game
+     - Certain UI features have been changed
+
+</details>
+
+<details>
+     <summary>
+            1.42
+     </summary>
+ 
+     - Battle Mage, Wild Hunter, Phantom, Mercedes, Kaiser, Angelic Buster, Aran, Evan, Demon Avenger, and Xenon have skill revamps
+     - Kanna and Hayato receive hyper skills
+     - Von Leon, Zakum, Arkarium, and Magnus all receive easy mode versions
+     - Occult cubes now drop from multiple bosses
+     - Tynerum(region) has been added
+     - Gollux(boss) has been added and is now fightable
+
+</details>
+
+<details>
+     <summary>
+            1.41
+     </summary>
+ 
+     - Cygnus Classes have had some general changes (level cap increase)
+     - Thunder Breaker has been revamped
+     - Wind Archer has been revamped
+     - Dawn Warrior has been revamped
+     - Theme Dungeon: Crimsonwood Keep has been added
+     - Theme Dungeon: Ellinel Fairy Academy has been added
+     - Theme Dungeon: Riena Strait has been added
+     - Widescreen Resolution (1366x768) has been added and will display more quickslots
+     - Maple chat has been added to improve maple messanger
+     - Link skills management has improved, maximum of 12 link skills
+     - EXP penalty for hunting lower level monsters removed
+     - Party exp will not be rewarded is there is a 41+ level difference between the lowest and highest party member
+     - Monster Life has been updated
+     - Party Quests have been revamped
+     - Monster Park has been revamped
+     - Fafnir weapons have been added for Hayato and Kanna
+     - Krexel has had his skills and drops changed
+
+</details>
+
+<details>
+     <summary>
+            1.39
+     </summary>
+ 
+     - Demon Avenger is added:
+     - EXP Coupons can no longer be bought above level 201
+
+</details>
+
+<details>
+     <summary>
+            1.38
+     </summary>
+ 
+     - Xenon is added:
+     - Terminus, Sovereign, Fairy, and Snowstorm gears are added
+
+</details>
+
+<details>
+     <summary>
+            1.37
+     </summary>
+ 
+     - Many classes have minor hyper skill changes
+     - Level 3 Link Skills are added
+     - Max level is increased from 200 to 250:
+     - Damage cap is increased from 999,999 to 50,000,000
+     - HP and MP cap have been increased
+     - Avoid cap has been lowered from 100% to 90%
+     - Inner Ability lines now unlock at levels 30, 50, and 70 through a lightbulb quest
+     - Twilight Perion is added
+     - Alien Visitor Party Quest is added
+     - Monster Park: Spirit Valley is added
+     - Theme Dungeon: Twisted Aqua Road is added
+     - Theme Dungeon: Fantasy Theme World is added
+     - Party Quest: Cooking with Tangyoon is added
+     - Guild Party Quest is added
+     - Skill Tab has been changed
+     - Equip and Item Inventories have been changed
+     - Character Stat Window has been changed
+     - Equipment Scrolling and Enhancement has been changed
+     - Magnifying Glasses are no longer needed forrevealing potentials
+     - Bits are added into the game
+     - World map has been redesigned
+     - Damage increase or decrease from equiping an item will now be displayed
+     - Cygnus, Hilla(Hard), Chaos Horntail, Magnus(Hard), Pink Bean, Chaos Pink Bean, Root Abyss Bosses, Von Leon, Zakum, and Chaos Zakum all receive minor changes:
+     - Singapore and Malaysia have their target level ranges changed
+     - Korean Folk Town monsters now give increased exp
+     - Masteria monster levels have been adjusted (Rotting Skeletons, Scarecrows, and Jesters nerfed)
+     - Lion King Castle has party play removed, as well as some other changes
+     - Many Party Quests have their daily entry restrictions removed
+     - Many Party Quest rewards now have lower requirements
+     - Victoria Island Special Bosses no longer have a level and job restriction
+
+</details>
+
+<details>
+     <summary>
+            1.35
+     </summary>
+ 
+     - Monster Life is added:
+
+</details>
+
+<details>
+     <summary>
+            1.32
+     </summary>
+ 
+     - Paladin, Bowmaster, Marksman, Night Lord, Shadower, Cannon Shooter, Demon Slayer, Luminous, Kaiser, and Angelic Buster receive minor skill changes:
+     - Hero, Paladin, Dark Knight, Mihile, Archmage (f/p), Archmage (i/l), Bishop, Bowmaster, Marksman, Night Lord, Shadower, Dual Blade, Buccaneer, Corsair, Cannoneer, Battle Mage, Wild Hunter, Mechanic, and Demon  - Slayer receive hyper skill changes:
+     - Dimension Invasion is added:
+     - Secondary Equipment is added:
+     - Evolution System is added
+     - Theme Dungeon: Gold Beach is added
+     - Monster Park Extreme is added
+     - Bonus Potentials are revamped
+     - Rock Paper Scissors is added
+
+</details>
+
+<details>
+     <summary>
+            1.31
+     </summary>
+ 
+     - Hayato is added
+
+</details>
+
+<details>
+     <summary>
+            1.29
+     </summary>
+ 
+     - Kanna is added
+     - Level 150 Fafnir set added to Chaos Root Abyss drop list.
+
+</details>
+
+<details>
+     <summary>
+            1.27
+     </summary>
+ 
+     - Root Abyss is added
+
+</details>
+
+<details>
+     <summary>
+            1.26
+     </summary>
+ 
+     - Angelic Buster is added
+
+</details>
+
+<details>
+     <summary>
+            1.25
+     </summary>
+ 
+     - Kaiser is added
+     - Hyper skills are added for Mercedes, Aran, Phantom, Luminous, Evan, and Kaiser
+     - Heliseum is added
+     - Tyrant's Castle is added
+     - Magnus is added
+
+</details>
+
+<details>
+     <summary>
+            1.24
+     </summary>
+ 
+     - Luminous is added
+
+</details>
+
+<details>
+     <summary>
+            1.23
+     </summary>
+ 
+     - Many classes have minor skill changes
+     - Job Advancement is changed
+     - 3rd job is now 60 (was 70)
+     - 4th job is now 100 (was 120)
+     - EXP required to level up from 60-75 and 100-125 has been adjusted
+
+</details>
+
+<details>
+     <summary>
+            1.21
+     </summary>
+ 
+     - Battle Mage has been revamped
+     - Mechanic has been revamped
+     - Wild Hunter has been revamped
+     - Chaos Pink Bean has been added
+
+</details>
+
+<details>
+     <summary>
+            1.18
+     </summary>
+ 
+     - Warrior, Magician, Bowman, Cannoneer, Mercedes, and Demon Slayer are all revamped
+     - Gachapon has been revamped
+
+</details>
+
+<details>
+     <summary>
+            1.17
+     </summary>
+ 
+     - Mihile is released
+
+</details>
+
+<details>
+     <summary>
+            1.15
+     </summary>
+ 
+     - Dual Blade gets revamped
+     - Corsair and Buccaneer get revamped
+     - Golden Temple: Theme Dungeon is added
+     - Silent Crusade gets revamped to last until level 160, can now fight Arkarium
+     - Mu Lung gloves now last 7 days instead of 1
+     - Temple of Time now has shortcut options when you enter Gate to the Past (assuming you have progressed):
+
+</details>
+
+<details>
+     <summary>
+            1.12-1.14
+     </summary>
+ 
+     - Phantom is released
+     - Jett is released
+     - Fight for Azwan is released
+     - Hilla is now available to fight
+     - Inner ability is added (May be wrong)
+     - Character cards are released (May be wrong)
+
+</details>
+
+<details>
+     <summary>
+            1.09 (12 Apr 2012)
+     </summary>
+ 
+     - Alliance Eternal game update
+     - Limited-time Legends classes creation, for accounts that haven't logged in since before March 14, 2012.
+     - Lion King's Castle revamp
+     - Explorer skill rebalances: Warrior, Magician, Bowman
+     - Cygnus Knights skill rebalances
+     - Cygnus Knights quest line expansion and modifications
+     - Ultimate Explorer skill rebalances and quest additions
+     - Nett's Pyramid Modifications
+     - Evolving Belt II Event
+     - Log in Gift Event
+     - Rescue The Miwok Boys Event
+     - Spring Flower Event
+     - Pendant Of The Spirit Event
+     - Alliance Congratulatory Events Updated For Alliance Eternal
+
+</details>
+
+<details>
+     <summary>
+            1.08 (28 Mar 2012)
+     </summary>
+ 
+     - Bug Fix
+
+</details>
+
+<details>
+     <summary>
+            1.07 (14 Mar. 2012)
+     </summary>
+ 
+     - New Alliance Quests
+     - Ellin Forest Expansion
+     - New Leaf City and Masteria Expansion
+     - New Alien Socket System
+     - New Event Cards and Event Card Collection System
+     - Resistance Class Rebalance
+     - Aran and Evan Rebalance: Part 2
+     - Time Trial Party Quest Revamp: Mu Lung Dojo, Monster Carnival, Nett's Pyramid, Sea of Fog Ghost Ship Raid
+     - The Danger Zone Taxi Revised In Ossyria.
+     - The Free Market Update
+     - Graphic Quality Of Skill Can Be Modified.
+     - Dual Blades, Cannoneer, Mercedes, Demon Slayer No Longer In Character Selection Screen
+
+</details>
+
+<details>
+     <summary>
+            1.06 (3 Feb. 2012)
+     </summary>
+ 
+     - Crimsonwood Keep PQ returns.
+     - Aran and Evan revamps
+     - Silent Crusade revamp, with the new Arkarium expedition
+     - Mushking Castle, Chryse, and Kerning Square revamps
+     - Legends Memories and Legends Thank You events
+     - Protect the Fireworks Festival (Ended on Feb. 28)
+     - Legends of Happiness!
+     - Legends I'm the Legendary Hero!
+     - A Golden Maple Leaf A Day!
+     - Valentine's Day events
+     - Raise a Maple Coin Tree (Ended on Feb 14)
+     - From Golden Leaves to Mushrooms? (Started on Feb 11)
+     - Monsters and the Golden Maple Leaf! (Started on Feb 14)
+     - Legendary Memories Events (Feb 22 - Mar 7)
+     - New Legends Shop (Ended on March 8)
+
+
+</details>
+
+<details>
+     <summary>
+            1.05 (19 Jan 2012)
+     </summary>
+ 
+     - Pink Zakum raid Event
+     - Evolving Ring III Event
+     - Daily Gear Giveaway Event
+     - New Year's Gift Boxes Event
+
+</details>
+
+<details>
+     <summary>
+            1.04 (8 Dec 2011)
+     </summary>
+ 
+     - New Job: Cannoneer
+     - New Job: Mercedes
+     - New Job: Demon Slayer
+     - Quick Move System
+     - NPC Button
+     - Normal Potion: Increased to stack up to 300 per slot.
+     - Alchemy Potion: Increased to stack up to 400 per slot.
+     - Pill: Increased to stack up to 600 per slot.
+     - Alchemy Pill: Increased to stack up to 800 per slot.
+     - Explorer Job Advancements Revamped
+     - Quests for Lv. 30 or below on Victoria Island have been changed.
+     - The Wandering Alchemist Eurek's New Skill" quest has been changed
+     - Professions Changes
+     - Battle Mode : New maps, New way of scoring, HP/MP Changes, BP Changes
+     - Nautilus Harbor and Florina Beach Map Changes
+     - New Monsters Added (Victoria Island)
+     - Few Monsters Level Changes (Henesys)
+     - Speed Increase 20%
+     - Danger Zone Taxi In Omega Sector Now Goes To Ludibrium
+     - INT No Longers Increase max MP To Non-Mage Classes
+     - Passive skills Shows on Stat Window
+     - Tablets Revamped
+     - Menu UI: Coin Shop
+     - Menu UI: Trophy List
+     - Menu UI: My Trophies
+     - Menu UI: Mission
+     - Cannoneer Welcome Party Event (Dec 9 to Dec 11)
+     - Equipment Support Event (Ended on : Jan 31)
+     - Legends Space Rock Event (Ended on : Jan 31)
+     - Legends 1+1 Event (Ended on : Jan 31)
+     - Legends Never Give Up! Event (Ended on : Jan 31)
+     - Invitation to the Legends Awards Event (Ended on : Jan 31)
+     - Box of Tomorrow Event (Ended on : Jan 31)
+     - Hero of the Legends: New Class Creation Event (Ended on : Jan 31)
+     - Professions Revamp Celebration Event (Ended on : Dec 28)
+     - Magic Music Box Event (Ended on Jan 4)
+     - Maple Claws Wants to be Famous Event (Started on Dec 19) (Ended on : Jan 31)
+     - Cultivate a Christmas Tree Event (Started on Dec 19) (Ended on : Jan 31)
+     - Rudolph, All Grown Up Event? (Started on Dec 19) (Ended on : Jan 31)
+     - Command Emblems Event (Dec 27 to Jan 10)
+     - Path of the Great Protector Event (Dec 29 to Jan 18)
+     - Monitoring the Vibrations Event (Dec 29 to Jan 18)
+     - Legendary Ore Event (Dec 29 to Jan 18)
+     - Happy New Year Event! (Jan 1 to Jan 18)
+     - Maple World Winter Preparations Event (Jan 1 to Jan 18)
+     - Warm Thermometer Event (Jan 1 to Jan 18)
+     - Lucky Cakes Event (Jan 1 to Jan 18)
+     - Coin Cakes Event (Jan 1 to Jan 18)
+     - The Party Quest Five Event (Jan 11 to Jan 18)
+     - The Monster Park Five Event (Jan 11 to Jan 18)
+     - The Battle Mode Five Event (Jan 11 to Jan 18)
+     - Legendary Black Dragon Event (Jan 18 to Jan 31)
+     - Rock-Paper-Scissors Event (Jan 19 to Jan 31)
+     - Can You Resist Event? (Jan 19 to Jan 31)
+
+</details>
+
+<details>
+     <summary>
+            1.03 (16 Nov 2011)
+     </summary>
+ 
+     - Bug Fix
+     - Skill Change - Dark Knight - "Beholder" renamed to "Beholden"
+     - Skill Fixed - Dual Blade - "Tornado Spin" now shows its level description.
+     - Item Potential Fix ( ? )
+     - Fellowship Event
+     - Find the Treasure Map Event (Ended on : Nov 29)
+     - Gaga's New Business Event (Started on : Nov 23)
+     - Thanksgiving Event (Ended on : Nov 30)
+
+</details>
+
+<details>
+     <summary>
+            1.02 (27 Oct 2011)
+     </summary>
+ 
+     - Monster Familiar
+     - Sidekick
+     - Life Style Campaign Event
+     - Evolving Belt Event (Ended on : Nov 1)
+     - Halloween Event (Ended on : Nov 8)
+     - Potted Maple Tree Event (Ended on : Nov 8)
+     - Golden Temple (Started on : Nov 9)
+     - Thanksgiving Event (Started on : Nov 6)
+
+</details>
+
+<details>
+     <summary>
+            1.01 (28 Sept 2011)
+     </summary>
+ 
+     - Warrior, Magicians and Archer Skill Changes
+     - Monster Park
+     - Wedding Revamp
+     - Bigger Dimensional Mirror
+     - 3 New Party Quest (Kenta in Danger, Escape, The Ice Knight's Curse)
+     - Old Party Quest Revamp
+     - In-Game Event Calender
+     - SP Reset Scroll Giveaway Event (Provided to: Warriors, Magicians, Bowmans, Dawn Warrior, Blaze Wizard, Wind Archer)
+     - Elite Warrior/Magician/Bowman Blessing
+     - Warrior/Magician/Bowman Level Up/Job Advancement Event
+     - Explorer's Gratias Ring
+     - Monster Park Event Quests
+     - Knights of Virtue Event (Ended on : Oct 19)
+     - Lion King Castle/Knight Stronghold Monsters Revamp
+     - EXP Bar User Interface Change
+     - Notice on Left side of Screen
+     - AP/SP now [!] on Bottom of Screen (SP will stop notifying at level 70+)
+     - Evolving Belt Event (Started on : Oct 5)
+     - Random Beauty Coupon (Started on : Oct 5)
+     - Beating the Heat (Started on : Oct 12)
+
+</details>
+
+<details>
+     <summary>
+            1.00 (11 Aug 2011)
+     </summary>
+ 
+     - Age of Triumph
+     - Capture the Flag
+     - Silent Crusade
+     - Crusader Codex (Monster Card)
+
+</details>
+
+<details>
+     <summary>
+            0.99 (29 June 2011)
+     </summary>
+ 
+     - Age of Heros
+     - Aran, Evan and Dual Blade Skill Changes
+     - New World - Chaos
+     - Gate to the Future
+     - Talking NPC (Lion King Castle/Gate to the Future)
+     - Hyper Teleport Rock preview
+     - Jumpstart Character (Ended on July 26)
+     - New Character Gift Sets
+     - Peacekeeper's Aid (Ended on : July 19)
+     - 2011 Summer Boom Up Event (Ended on : July 26)
+     - Returned Friend Event (Ended on : Aug 31)
+     - Chaos Warrior Challenge (Ended on : Aug 14)
+     - Age of Artisans (11 July 2011)
+     - New Crafting System
+     - All New Character Traits
+     - Age of Battle (20 July 2011)
+     - New World - Nova
+     - Player-vs-Player
+     - Ice Knight (Added on July 27)
+
+</details>
+
+<details>
+     <summary>
+            0.98 (25 May 2011)
+     </summary>
+ 
+     - Cake vs. Pie Town Battles Event
+     - Cake vs. Pie Bonus Boss Battles Event
+     - Ancient Artifact Hunt Event
+     - Time Limit on Horntail and Zakum Implemented
+     - Bug Fixes
+
+</details>
+
+<details>
+     <summary>
+            0.97 (27 April 2011)
+     </summary>
+ 
+     - Anniversary
+     - 6th Anniversary Items
+     - Dual Raid: Balloon Hunt
+     - 6th Anniversary Level Up Event
+     - Maple Tree Event
+     - Jigsaw Event
+     - Family Loyalty Forever Event
+     - Magic Powders Drop Removed
+     - Bug Fixes
+
+</details>
+
+<details>
+     <summary>
+            0.96 (10 March 2011)
+     </summary>
+ 
+     - Ultimate Explorer
+     - Cygnus Knights Buff
+     - Guild Revamped
+     - Blessing of Empress
+     - Lion King's Castle/Castle of Von Leon
+     - Ani Raid
+     - Elemental Wands and Staffs Update
+     - New World Map Features
+     - 7th Day Market Removed
+     - Ores Drop Removed
+     - More channels for Zakum, Horntail, and Targa/Scarlion
+     - Evolving Ring II
+     - Golden Temple (Ended on : March 22)
+     - Mardi Gras (Ended on : March 15)
+     - Chryse (Added on : April 6)
+     - Bug Fix
+
+</details>
+
+<details>
+     <summary>
+            0.95 (19 January 2011)
+     </summary>
+ 
+     - Mechanics
+     - NPC Duey removed NPC Donald added
+     - Resistance characters can get Episode 1 hats
+     - Chinese New Year [Jan. 26 - Feb.08]
+     - Valentine's Day [Feb.09 - Feb.22]
+     - Golden Temple [Feb. 23 - Mar.22]
+     - Mardi Gras [Mar.02 - Mar.15]
+     - Bug Fixes
+
+</details>
+
+<details>
+     <summary>
+            0.94 (20 Dec 2010)
+     </summary>
+ 
+     - Resistance Class
+     - New World - Arcania
+     - Support for Resistance Event
+     - Resistance Leveling Event
+     - Happyville (It ended on: Jan 5th)
+     - White Christmas Tree Event (It ended on: Jan 5th)
+     - New World Event
+     - Singapore Monsters Adjustments
+     - Bug Fixes
+
+</details>
+
+<details>
+     <summary>
+            0.92 (23 Nov 2010)
+     </summary>
+ 
+     - Improve compatibility with modern Windows operating systems
+     - Gold Richie Event
+     - Bug Fixes
+     - Duey Retirment (Service Ended Dec. 3rd)
+     - New World : El Nido
+     - New World : Zenith
+     - New Formulas
+     - Map changes
+     - Item Drops increased (Use and Etc.)
+     - Party Quest Level updated
+     - Astaroth Been Added To Dimensional Mirror
+     - Quest Has Been Retooled
+     - Monster Adjustments
+     - Skill Adjustments
+     - Evolving Ring Event
+     - Eve of Resistance Event
+     - New User Event
+     - Returned Friend Event
+     - New World Event
+     - 1024x768 Resolution
+     - Higher Resolution
+     - User Interface Change
+     - World Map Change
+     - Ariant Coliseum and Ludibrium Maze Removed
+     - Episode 1 Quest Remodivied
+     - Big Fix
+
+</details>
+
+<details>
+     <summary>
+            0.91 (27 Oct 2010)
+     </summary>
+ 
+     - Introducing eTracer
+     - Ulu City (Added on Nov. 3)
+     - Aramia's Book Drive (Added on Nov. 3)
+     - Halloween Event Ended (Ended on Nov. 10)
+     - Aramia's Book Drive Ended (Ended on Nov. 16)
+     - Thanksgiving Event (Started Nov. 17)
+
+</details>
+
+<details>
+     <summary>
             0.90 (29 Sep 2010)
      </summary>
  
