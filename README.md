@@ -369,7 +369,7 @@
 
 <details>
      <summary>
-            v1.49
+            1.49
      </summary>
  
      - Wild Hunter has skill changes (minor buff)
