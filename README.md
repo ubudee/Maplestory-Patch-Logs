@@ -633,7 +633,7 @@
 
 <details>
      <summary>
-            1.44
+            1.44 (Dec 16, 2013)
      </summary>
  
      - Zero has been added
@@ -643,7 +643,7 @@
 
 <details>
      <summary>
-            1.43
+            1.43 (Dec 4, 2013)
      </summary>
  
      - Explorer classes have been revamped
@@ -662,7 +662,7 @@
 
 <details>
      <summary>
-            1.42
+            1.42 (Oct 16, 2013)
      </summary>
  
      - Battle Mage, Wild Hunter, Phantom, Mercedes, Kaiser, Angelic Buster, Aran, Evan, Demon Avenger, and Xenon have skill revamps
@@ -676,7 +676,7 @@
 
 <details>
      <summary>
-            1.41
+            1.41 (Sep 4, 2013)
      </summary>
  
      - Cygnus Classes have had some general changes (level cap increase)
@@ -701,7 +701,7 @@
 
 <details>
      <summary>
-            1.39
+            1.39 ()
      </summary>
  
      - Demon Avenger is added:
@@ -711,7 +711,7 @@
 
 <details>
      <summary>
-            1.38
+            1.38 ()
      </summary>
  
      - Xenon is added:
@@ -721,7 +721,7 @@
 
 <details>
      <summary>
-            1.37
+            1.37 (Jun 19, 2013)
      </summary>
  
      - Many classes have minor hyper skill changes
@@ -759,7 +759,7 @@
 
 <details>
      <summary>
-            1.35
+            1.35 (May 21, 2013)
      </summary>
  
      - Monster Life is added:
@@ -768,7 +768,7 @@
 
 <details>
      <summary>
-            1.32
+            1.32 (Apr 30, 2013)
      </summary>
  
      - Paladin, Bowmaster, Marksman, Night Lord, Shadower, Cannon Shooter, Demon Slayer, Luminous, Kaiser, and Angelic Buster receive minor skill changes:
@@ -785,7 +785,7 @@
 
 <details>
      <summary>
-            1.31
+            1.31 (Mar 12, 2013)
      </summary>
  
      - Hayato is added
@@ -794,7 +794,7 @@
 
 <details>
      <summary>
-            1.29
+            1.29 (Feb 26, 2013)
      </summary>
  
      - Kanna is added
@@ -804,7 +804,7 @@
 
 <details>
      <summary>
-            1.27
+            1.27 (Jan 15, 2013)
      </summary>
  
      - Root Abyss is added
@@ -813,7 +813,7 @@
 
 <details>
      <summary>
-            1.26 (8 Jan 2013)
+            1.26 (Jan 8, 2013)
      </summary>
  
      - Angelic Buster is added
@@ -822,7 +822,7 @@
 
 <details>
      <summary>
-            1.25 (7 dec)
+            1.25 (Dec 14, 2012)
      </summary>
  
      - Kaiser is added
@@ -835,7 +835,7 @@
 
 <details>
      <summary>
-            1.24 (4 Dec 2012)
+            1.24 (Dec 4, 2012)
      </summary>
  
      - Luminous is added
@@ -844,7 +844,7 @@
 
 <details>
      <summary>
-            1.23 (28 Nov 2012)
+            1.23 (Nov 28, 2012)
      </summary>
  
      - Many classes have minor skill changes
@@ -857,7 +857,7 @@
 
 <details>
      <summary>
-            1.21 (13 Nov 2012)
+            1.21 (Nov 12, 2012)
      </summary>
  
      - Battle Mage has been revamped
@@ -869,7 +869,7 @@
 
 <details>
      <summary>
-            1.18 (21 Sep 2012)
+            1.18 (Sep 21, 2012)
      </summary>
  
      - Warrior, Magician, Bowman, Cannoneer, Mercedes, and Demon Slayer are all revamped
@@ -879,7 +879,7 @@
 
 <details>
      <summary>
-            1.17 (31 Aug 2012)
+            1.17 (Aug 31, 2012)
      </summary>
  
      - Mihile is released
@@ -888,7 +888,7 @@
 
 <details>
      <summary>
-            1.15 (7 Aug 2012)
+            1.15 (Aug 7, 2012)
      </summary>
  
      - Dual Blade gets revamped
@@ -902,7 +902,7 @@
 
 <details>
      <summary>
-            1.12-1.14 (23 Jul 2012)
+            1.12-1.14 (Jul 23, 2012)
      </summary>
  
      - Phantom is released
@@ -916,7 +916,7 @@
 
 <details>
      <summary>
-            1.09 (12 Apr 2012)
+            1.09 (Apr 12, 2012)
      </summary>
  
      - Alliance Eternal game update
@@ -938,7 +938,7 @@
 
 <details>
      <summary>
-            1.08 (28 Mar 2012)
+            1.08 (Mar 28, 2012)
      </summary>
  
      - Bug Fix
@@ -947,7 +947,7 @@
 
 <details>
      <summary>
-            1.07 (14 Mar 2012)
+            1.07 (Mar 14, 2012)
      </summary>
  
      - New Alliance Quests
@@ -967,7 +967,7 @@
 
 <details>
      <summary>
-            1.06 (3 Feb 2012)
+            1.06 (Feb 3, 2012)
      </summary>
  
      - Crimsonwood Keep PQ returns.
@@ -991,7 +991,7 @@
 
 <details>
      <summary>
-            1.05 (19 Jan 2012)
+            1.05 (Jan 19, 2012)
      </summary>
  
      - Pink Zakum raid Event
@@ -1003,7 +1003,7 @@
 
 <details>
      <summary>
-            1.04 (8 Dec 2011)
+            1.04 (Dec 8, 2011)
      </summary>
  
      - New Job: Cannoneer
@@ -1065,7 +1065,7 @@
 
 <details>
      <summary>
-            1.03 (16 Nov 2011)
+            1.03 (Nov 16, 2011)
      </summary>
  
      - Bug Fix
@@ -1081,7 +1081,7 @@
 
 <details>
      <summary>
-            1.02 (27 Oct 2011)
+            1.02 (Oct 27, 2011)
      </summary>
  
      - Monster Familiar
@@ -1097,7 +1097,7 @@
 
 <details>
      <summary>
-            1.01 (28 Sep 2011)
+            1.01 (Sep 28, 2011)
      </summary>
  
      - Warrior, Magicians and Archer Skill Changes
@@ -1125,7 +1125,7 @@
 
 <details>
      <summary>
-            1.00 (11 Aug 2011)
+            1.00 (Aug 11, 2011)
      </summary>
  
      - Age of Triumph
