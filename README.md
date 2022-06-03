@@ -1,6 +1,188 @@
 <details>
      <summary>
-            1.74
+            1.80 (Jan 17, 2017)
+     </summary>
+     
+     - Appreciation Events: Player Appreciation ReVVard
+     - Appreciation Events: Maple VVorld Records
+     - Additional Updates: Bug Fixes
+     - Lunar New Year Events: New Year Gift Box
+     - Lunar New Year Events: New Year Fireworks
+     - Lunar New Year Events: New Year Coin Shop
+     - Lunar New Year Events: New Year Greetings
+     - Lunar New Year Events: New Year Bingo
+     - Lunar New Year Events: New Year OX Quiz
+     - Lunar New Year Events: New Year's Countdown Shop
+     - Lunar New Year Events: Lunar New Year Hot Week
+     - Other New Events: 2x EXP & Drop Weekends
+     - Other New Events: Hot Days
+     - Other New Events: Hot Weekends
+     - Other New Events: Cash Inventory Transfer Event
+     - Other New Events: Spiegelmann Express: The Chu Chu Truck
+     - Other New Events: February Attendance Check
+     - Other New Events: Maplehood Watch
+     - Other New Events: Special Beauty Coupon Event
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Sengoku High
+     - Other New Events: Hot Week
+     - Mardi Gras Events: Mardi Gras Throw
+     - Mardi Gras Events: Mardi Gras Masks
+     - Valentine's Day Events: Choco Onslaught
+     - Valentine's Day Events: Cassandra's Special Candy
+     - Valentine's Day Events: Blackheart Day: Singles Army Unite!
+     - Valentine's Day Events: Cassandra's Dating Advice
+     - Valentine's Day Events: The Sweetest Day
+     - Valentine's Day Events: Sweet in the Center
+     - Valentine's Day Events: Valentine's Day Heart-Shaped Box
+     
+</details>
+
+<details>
+     <summary>
+            1.79 (Dec 14, 2016)
+     </summary>
+     
+     - New Content: 5th Job Advancement: 5th Job Overview
+     - New Content: 5th Job Advancement: New Skills: All Jobs
+     - New Content: 5th Job Advancement: New Skills: Warrior Jobs
+     - New Content: 5th Job Advancement: New Skills: Magician Jobs
+     - New Content: 5th Job Advancement: New Skills: Bowman Jobs
+     - New Content: 5th Job Advancement: New Skills: Thief Jobs
+     - New Content: 5th Job Advancement: New Skills: Pirate Jobs
+     - New Area: Arcane River: Vanishing Journey
+     - New Area: Arcane River: Chu Chu Island
+     - Additional Updates: Bug Fixes
+     - MapleStory V Events: V Hot Day
+     - MapleStory V Events: V Box Event
+     - MapleStory V Events: Mesoranger V
+     - MapleStory V Events: Mega Burning Project
+     - MapleStory V Events: V Coin Shop
+     - Holiday Events: Icy Onslaught
+     - Holiday Events: Catch a Snowflake
+     - Holiday Events: Cassandra’s Christmas Present
+     - Holiday Events: New Year's Countdown
+     - Other New Events: December Big Spender
+     - Other New Events: Let's Party Quest
+     - Other New Events: 2x EXP & Drop Weekends
+     - Other New Events: Spell Trace Fever Time
+     
+</details>
+
+<details>
+     <summary>
+            1.78 (Nov 29, 2016)
+     </summary>
+     
+     - New Content: UI Revamp
+     - New Content: Damage Cap Removal
+     - New Content: Reduced Leveling Curve
+     - New Content: Auction House
+     - New Content: Character Name Change
+     - Additional Update: Bug Fixes
+     - Additional Update: Stat Changes
+     - Additional Update: Reboot World Monster HP Changes
+     - Additional Update: ‘A Better Maple’ System Changes
+     - MapleStory V Event: V Hot Day
+     - MapleStory V Event: Mega Burning Project
+     - MapleStory V Event: Hi-Five Box Event
+     - MapleStory V Event: Play V Rewards Event
+     - MapleStory V Event: V Breakthrough Event
+     - MapleStory V Event: V Coin Shop
+     - MapleStory V Event: V Tracker
+     - Holiday Event: Happyville
+     - Holiday Event: Christmas Everywhere
+     - Holiday Event: The Grand Christmas Tree
+     - Holiday Event: Santa’s Shining Gift
+     - Other New Events: Zero Character Creation
+     - Other New Events: Beast Tamer Character Creation
+     - Other New Events: Hot Week
+     - Other New Events: 2x EXP & Drop Weekends
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Tinkerer’s Chest
+     
+</details>
+
+<details>
+     <summary>
+            1.77 (Oct 18, 2016)
+     </summary>
+     
+     - New Content: The Afterlands
+     - Bug Fixes
+     - Skill Changes
+     - ‘A Better Maple’ System Changes
+     - Fishing System
+     - Wedding System Revamp
+     - Secret Stories
+     - Haunted Mansion
+     - Elite Pumpkin Zombie
+     - Hero’s Gauntlet
+     - Halloween Kaleido-Spinner Event
+     - Dark Lords of Darkness
+     - 2x EXP & Drop Weekend
+     - Halloween Monster Invasion
+     - Halloween Hot Weekend
+     - Thanksgiving! Event
+     - Food Fighter
+     - Thanksgiving Turkey Egg Hunt
+     - Bunny on the Moon
+     - Of Mice and Bunnies
+     - Rice Cakes are Back
+     - Towering Crown
+     - Rock-Paper-Scissors Zakum
+     - Jewel Crafting
+     - Hunt Acceleration Haste Event
+     - Arcane Attendance Event
+     - Hot Weekend
+     - V Coin Exchange Event
+     - Black Friday Big Spender Event
+     - Black Friday Hot Week
+     
+</details>
+
+<details>
+     <summary>
+            1.76 (Sep 07, 2016)
+     </summary>
+     
+     - New Content: Mushroom Shrine
+     - Reboot World Events
+     - Water Wars
+     - Futuroid Event
+     - New & Returning Players Event
+     - Mystic Gate
+     - Homecoming: Sports Day
+     - Homecoming: Queen Bee
+     - Spell Trace Fever Time
+     - Maple Music Festival
+     - Maple Bonfire
+     - Absolute Belt
+     - Rainbow Festival
+     - 2x EXP & Drop Weekends
+     - Hot Week
+     
+</details>
+
+<details>
+     <summary>
+            1.75 (Jul 19, 2016)
+     </summary>
+     
+     - New Playable Character: Blaster
+     - New Content: Heroes of Maple
+     - Additional Updates
+     - Heroes of Maple Events
+     - Hot Time
+     - Burning Project
+     - Heroes of Reboot
+     - Ursus Heroes Coin Event
+     - Maplehood Watch Event
+     
+</details>
+
+<details>
+     <summary>
+            1.74 (Jun 22, 2016)
      </summary>
  
      - New Content: Heroes of Maple
@@ -82,11 +264,12 @@
      - Hot Week
      - Hot Week 2
      - Hot Week 3
+     
 </details>
 
 <details>
      <summary>
-            1.73
+            1.73 (May 17, 2016)
      </summary>
  
      - Stellar Detectives quest line has been added
@@ -96,7 +279,7 @@
 
 <details>
      <summary>
-            1.72
+            1.72 (Apr 19, 2016)
      </summary>
  
      - Many classes have received skill changes to balance them
@@ -116,7 +299,7 @@
 
 <details>
      <summary>
-            1.71
+            1.71 (Mar 09, 2016)
      </summary>
  
      - Mastera Through Time parts 1 and 2 have been added
@@ -130,7 +313,7 @@
 
 <details>
      <summary>
-            1.70
+            1.70 (Jan 13, 2016)
      </summary>
  
      - Ursus the Mighty has been added to the game
@@ -142,7 +325,7 @@
 
 <details>
      <summary>
-            1.69
+            1.69 (Dec 15, 2015)
      </summary>
  
      - Kinesis has been added to the game
@@ -152,7 +335,7 @@
 
 <details>
      <summary>
-            1.68
+            1.68 (Dec 01, 2015)
      </summary>
  
      - Most jobs have a skill change of some sort
@@ -169,7 +352,7 @@
 
 <details>
      <summary>
-            1.67
+            1.67 (Oct 28, 2015)
      </summary>
  
      - Alishan has been added to the game
@@ -179,7 +362,7 @@
 
 <details>
      <summary>
-            1.66
+            1.66 (Oct 06, 2015)
      </summary>
  
      - Kanna received a minor revamp
@@ -192,7 +375,7 @@
 
 <details>
      <summary>
-            1.63
+            1.63 (Jul 07, 2015)
      </summary>
  
      - Beast Tamer has many skill changes (huge buffs)
@@ -209,7 +392,7 @@
 
 <details>
      <summary>
-            1.62
+            1.62 (May 19, 2015)
      </summary>
  
      - 2x EXP coupons no longer have purchase restrictions between levels 201-249
@@ -219,7 +402,7 @@
 
 <details>
      <summary>
-            1.61
+            1.61 (Apr 20, 2015)
      </summary>
  
      - Black Heaven acts 5 and 6 have been added
@@ -231,7 +414,7 @@
 
 <details>
      <summary>
-            1.60
+            1.60 (Mar 09, 2015)
      </summary>
  
      - Battle Mage has been revamped
@@ -250,9 +433,10 @@
 
 <details>
      <summary>
-            1.58
+            1.58 (Dec 15, 2014)
      </summary>
  
+     - 
      - Star Planet has been added to the game
      - Maple Rewards System has been added to the game
 
@@ -260,7 +444,7 @@
 
 <details>
      <summary>
-            1.57
+            1.57 (Dec 01, 2014)
      </summary>
  
      - Minor skill changes for most classes
@@ -286,7 +470,7 @@
 
 <details>
      <summary>
-            1.56
+            1.56 (Oct 28, 2014)
      </summary>
  
      - Night Walker has been revamped and now has a level cap of 250
@@ -301,7 +485,7 @@
 
 <details>
      <summary>
-            1.54
+            1.54 (Sep 16, 2014)
      </summary>
  
      - Blaze Wizard has been revamped and now has a level cap of 250
@@ -312,7 +496,7 @@
 
 <details>
      <summary>
-            1.52
+            1.52 (Aug 11, 2014)
      </summary>
  
      - Jett has been Revamped
@@ -327,7 +511,7 @@
 
 <details>
      <summary>
-            1.51
+            1.51 (Jul 08, 2014)
      </summary>
  
      - Shade is added to the game
@@ -340,7 +524,7 @@
 
 <details>
      <summary>
-            1.50
+            1.50 (Jun 24, 2014)
      </summary>
  
      - Instant KO chance is lowered in skills across the board
@@ -369,7 +553,7 @@
 
 <details>
      <summary>
-            1.49
+            1.49 (May 12, 2014)
      </summary>
  
      - Wild Hunter has skill changes (minor buff)
@@ -401,7 +585,7 @@
 
 <details>
      <summary>
-            1.48
+            1.48 (Mar 20, 2014)
      </summary>
  
      - Cannoneer is revamped
@@ -426,7 +610,7 @@
 
 <details>
      <summary>
-            1.46
+            1.46 (Feb 11, 2014)
      </summary>
  
      - Masteria and its quest line have been updated
@@ -437,7 +621,7 @@
 
 <details>
      <summary>
-            1.45
+            1.45 (Jan 21, 2014)
      </summary>
  
      - Beast Tamer is added
@@ -629,7 +813,7 @@
 
 <details>
      <summary>
-            1.26
+            1.26 (8 Jan 2013)
      </summary>
  
      - Angelic Buster is added
@@ -638,7 +822,7 @@
 
 <details>
      <summary>
-            1.25
+            1.25 (7 dec)
      </summary>
  
      - Kaiser is added
@@ -651,7 +835,7 @@
 
 <details>
      <summary>
-            1.24
+            1.24 (4 Dec 2012)
      </summary>
  
      - Luminous is added
@@ -660,7 +844,7 @@
 
 <details>
      <summary>
-            1.23
+            1.23 (28 Nov 2012)
      </summary>
  
      - Many classes have minor skill changes
@@ -673,7 +857,7 @@
 
 <details>
      <summary>
-            1.21
+            1.21 (13 Nov 2012)
      </summary>
  
      - Battle Mage has been revamped
@@ -685,7 +869,7 @@
 
 <details>
      <summary>
-            1.18
+            1.18 (21 Sep 2012)
      </summary>
  
      - Warrior, Magician, Bowman, Cannoneer, Mercedes, and Demon Slayer are all revamped
@@ -695,7 +879,7 @@
 
 <details>
      <summary>
-            1.17
+            1.17 (31 Aug 2012)
      </summary>
  
      - Mihile is released
@@ -704,7 +888,7 @@
 
 <details>
      <summary>
-            1.15
+            1.15 (7 Aug 2012)
      </summary>
  
      - Dual Blade gets revamped
@@ -718,7 +902,7 @@
 
 <details>
      <summary>
-            1.12-1.14
+            1.12-1.14 (23 Jul 2012)
      </summary>
  
      - Phantom is released
@@ -763,7 +947,7 @@
 
 <details>
      <summary>
-            1.07 (14 Mar. 2012)
+            1.07 (14 Mar 2012)
      </summary>
  
      - New Alliance Quests
@@ -783,7 +967,7 @@
 
 <details>
      <summary>
-            1.06 (3 Feb. 2012)
+            1.06 (3 Feb 2012)
      </summary>
  
      - Crimsonwood Keep PQ returns.
@@ -913,7 +1097,7 @@
 
 <details>
      <summary>
-            1.01 (28 Sept 2011)
+            1.01 (28 Sep 2011)
      </summary>
  
      - Warrior, Magicians and Archer Skill Changes
@@ -953,7 +1137,7 @@
 
 <details>
      <summary>
-            0.99 (29 June 2011)
+            0.99 (29 Jun 2011)
      </summary>
  
      - Age of Heros
@@ -993,7 +1177,7 @@
 
 <details>
      <summary>
-            0.97 (27 April 2011)
+            0.97 (27 Apr 2011)
      </summary>
  
      - Anniversary
@@ -1010,7 +1194,7 @@
 
 <details>
      <summary>
-            0.96 (10 March 2011)
+            0.96 (10 Mar 2011)
      </summary>
  
      - Ultimate Explorer
@@ -1034,7 +1218,7 @@
 
 <details>
      <summary>
-            0.95 (19 January 2011)
+            0.95 (19 Jan 2011)
      </summary>
  
      - Mechanics
@@ -1935,7 +2119,7 @@
 
 <details>
      <summary>
-            0.22 (18 April 2006)
+            0.22 (18 Apr 2006)
      </summary>
  
      - Bug fix
@@ -1944,7 +2128,7 @@
 
 <details>
      <summary>
-            0.21 (5 April 2006)
+            0.21 (5 Apr 2006)
      </summary>
  
      - Easter event
