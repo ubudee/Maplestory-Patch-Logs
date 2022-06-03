@@ -643,7 +643,7 @@
 
 <details>
      <summary>
-            1.43 (Dec 4, 2013)
+            1.43 (Dec 04, 2013)
      </summary>
  
      - Explorer classes have been revamped
@@ -676,7 +676,7 @@
 
 <details>
      <summary>
-            1.41 (Sep 4, 2013)
+            1.41 (Sep 04, 2013)
      </summary>
  
      - Cygnus Classes have had some general changes (level cap increase)
@@ -701,7 +701,7 @@
 
 <details>
      <summary>
-            1.39 ()
+            1.39 (Jul 22, 2013)
      </summary>
  
      - Demon Avenger is added:
@@ -711,7 +711,7 @@
 
 <details>
      <summary>
-            1.38 ()
+            1.38 (Jul 01, 2013)
      </summary>
  
      - Xenon is added:
@@ -813,7 +813,7 @@
 
 <details>
      <summary>
-            1.26 (Jan 8, 2013)
+            1.26 (Jan 08, 2013)
      </summary>
  
      - Angelic Buster is added
@@ -835,7 +835,7 @@
 
 <details>
      <summary>
-            1.24 (Dec 4, 2012)
+            1.24 (Dec 04, 2012)
      </summary>
  
      - Luminous is added
@@ -888,7 +888,7 @@
 
 <details>
      <summary>
-            1.15 (Aug 7, 2012)
+            1.15 (Aug 07, 2012)
      </summary>
  
      - Dual Blade gets revamped
@@ -967,7 +967,7 @@
 
 <details>
      <summary>
-            1.06 (Feb 3, 2012)
+            1.06 (Feb 03, 2012)
      </summary>
  
      - Crimsonwood Keep PQ returns.
@@ -1003,7 +1003,7 @@
 
 <details>
      <summary>
-            1.04 (Dec 8, 2011)
+            1.04 (Dec 08, 2011)
      </summary>
  
      - New Job: Cannoneer
@@ -1373,7 +1373,7 @@
 
 <details>
      <summary>
-            0.85 (5 May 2010) Maple Story 5th Anniversary
+            0.85 (05 May 2010) Maple Story 5th Anniversary
      </summary>
  
      - Birthday Patch
@@ -1607,7 +1607,7 @@
 
 <details>
      <summary>
-            0.70 (7 May 2009) Maple Story 4th Anniversary
+            0.70 (07 May 2009) Maple Story 4th Anniversary
      </summary>
  
      - Birthday Patch
@@ -1637,7 +1637,7 @@
 
 <details>
      <summary>
-            0.67 (8 Apr 2009)
+            0.67 (08 Apr 2009)
      </summary>
  
      - New Party Quest features
@@ -1656,7 +1656,7 @@
 
 <details>
      <summary>
-            0.66 (5 Mar 2009)
+            0.66 (05 Mar 2009)
      </summary>
  
      - Crimsonwood Keep Party Quest
@@ -1753,7 +1753,7 @@
 
 <details>
      <summary>
-            0.58 (9 Jul 2008)
+            0.58 (09 Jul 2008)
      </summary>
  
      - Summer Updates
@@ -1795,7 +1795,7 @@
 
 <details>
      <summary>
-            0.54 (7 May 2008) [2]
+            0.54 (07 May 2008) [2]
      </summary>
  
      - Showa
@@ -1804,7 +1804,7 @@
 
 <details>
      <summary>
-            0.53 (2 Apr 2008)
+            0.53 (02 Apr 2008)
      </summary>
  
      - Maple Trading System (MTS)
@@ -1959,7 +1959,7 @@
 
 <details>
      <summary>
-            0.38 (2 May 2007) Maple Story 2nd Anniversary
+            0.38 (02 May 2007) Maple Story 2nd Anniversary
      </summary>
  
      - Birthday event
@@ -2003,7 +2003,7 @@
 
 <details>
      <summary>
-            0.34 (6 Feb 2007)
+            0.34 (06 Feb 2007)
      </summary>
  
      - Guild Quest
@@ -2023,7 +2023,7 @@
 
 <details>
      <summary>
-            0.32 (6 Dec 2006)
+            0.32 (06 Dec 2006)
      </summary>
  
      - Amoria
@@ -2033,7 +2033,7 @@
 
 <details>
      <summary>
-            0.31 (7 Nov 2006)
+            0.31 (07 Nov 2006)
      </summary>
  
      - Thanksgiving event
@@ -2100,7 +2100,7 @@
 
 <details>
      <summary>
-            0.24 (8 Jun 2006)
+            0.24 (08 Jun 2006)
      </summary>
  
      - Omega Sector
@@ -2109,7 +2109,7 @@
 
 <details>
      <summary>
-            0.23 (3 May 2006) Maple Story 1st Anniversary
+            0.23 (03 May 2006) Maple Story 1st Anniversary
      </summary>
  
      - Zakum
@@ -2128,7 +2128,7 @@
 
 <details>
      <summary>
-            0.21 (5 Apr 2006)
+            0.21 (05 Apr 2006)
      </summary>
  
      - Easter event
@@ -2146,7 +2146,7 @@
 
 <details>
      <summary>
-            0.19 (2 Mar 2006)
+            0.19 (02 Mar 2006)
      </summary>
  
      - Ludibrium
@@ -2175,7 +2175,7 @@
 
 <details>
      <summary>
-            0.17 (9 Feb 2006)
+            0.17 (09 Feb 2006)
      </summary>
  
      - PIN reset
@@ -2246,7 +2246,7 @@
 
 <details>
      <summary>
-            0.11 (2 Nov 2005)
+            0.11 (02 Nov 2005)
      </summary>
  
      - End of Halloween event
