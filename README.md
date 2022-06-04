@@ -63,6 +63,78 @@
 
 <details>
      <summary>
+            1.88 (Aug 29, 2017)
+     </summary>
+     
+     - New Content: A Better Maple
+     - New Content: Skill Revamps
+     - New Content: Quest Revamps
+     - New Content: Monster Life Revamp
+     - New Content: Cross World Party Quest Revamp
+     - New Content: Updates to Combat Maps
+     - New Content: Mu Lung Dojo Updates
+     - New Content: Screenshot Options
+     - New Content: Additional Updates
+     - New Content: Bug Fixes
+     - New Events: Dice Master
+     - New Events: Recruiting New Members
+     - New Events: Sunny Sunday Perk
+     - New Events: September Attendance Check
+     - New Events: Challenge! Rainbow Spectrum
+     - New Events: Absolute Taste
+     - New Events: World Leap
+     - New Events: Spell Trace Fever Time
+     - New Events: Maple Leaf High
+     - New Events: Hot Week
+     - Moon Festival Events: The Great Moon Bunny Ceremonial Table
+     - Moon Festival Events: Moon Festival Coin Shop
+     - Moon Festival Events: Bountiful Fall Saturday Perk
+     - Moon Festival Events: Moon Festival Gift Box
+     - Moon Festival Events: Moon Festival 2x EXP & Drop Weekend
+     
+</details>
+
+<details>
+     <summary>
+            1.87 (Jul 18, 2017)
+     </summary>
+     
+     - New Content: Dream Defender
+     - New Content: Fantasy Theme World
+     - New Content: Arcana
+     - Additional Updates: Bug Fixes
+     - Eluna Events: Elunarium Energy
+     - Eluna Events: Otherworldly Luck
+     - Eluna Events: Eluna's Prospects
+     - Eluna Events: Eluna Express
+     - Eluna Events: Elunarium Accessory Crafting
+     - Eluna Events: Break the Elunarium Pillar
+     - Override Events: Override Saturday Perk Event
+     - Override Events: Override Box Event
+     - Override Events: Override Coin Shop
+     - Override Events: Override Hot Week
+     - Override Events: TakeOver Event
+     - Override Events: Override Mega Burning Project
+     - Override Events: Override Hot Week 2
+     - Festival Events: Festival All-in-One Gift Box
+     - Festival Events: Festival Box Event
+     - Festival Events: Festival Saturday Perk Event
+     - Festival Events: Festival Sugar Time
+     - Festival Events: Festival 100-Player Bingo
+     - Other New Events: Dream Defender Grand Opening Event
+     - Other New Events: Zero Character Creation
+     - Other New Events: Latte Trio Event
+     - Other New Events: The Legends Return
+     - Other New Events: 2x EXP & Drop Weekends
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Spiegelmann Express: Nihal Desert Trade Tycoon
+     - Other New Events: Cash Inventory Transfer Event
+     - Other New Events: Tinkerer's Chest
+     
+</details>
+
+<details>
+     <summary>
             1.86 (Jun 20, 2017)
      </summary>
      
