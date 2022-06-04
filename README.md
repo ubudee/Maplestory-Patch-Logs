@@ -1,5 +1,122 @@
 <details>
      <summary>
+            1.90 (Nov 28, 2017)
+     </summary>
+     
+     - New Playable Character:  Cadena Intro
+     - New Playable Character:  Cadena Skills
+     - Skill Updates: New 5th Job Skills
+     - Skill Updates: Skill Revamps
+     - New Content: Maple Achievements
+     - New Content: Spirit Savior
+     - Additional Updates: A Better Maple
+     - Additional Updates: Boss Reward Changes
+     - Additional Updates: Game-Related Changes
+     - Additional Updates: Skill-Related Changes
+     - Additional Updates: Bug Fixes
+     - Nova Events: Breakthrough Nova
+     - Nova Events: Character Name Change
+     - Nova Events: Nova Box
+     - Nova Events: Nova Coin Shop
+     - Nova Events: Nova Sugar Time
+     - Nova Events: Nova Hot Week
+     - Nova Events: Super Nova
+     - Other New Events: Zero Character Creation
+     - Other New Events: Cryojet Mount
+     - Other New Events: Dragon Pop
+     - Other New Events: 2x EXP & Drop Weekend
+     - Other New Events: Sunny Sunday Perk
+     - Other New Events: Festival 100-Player Bingo
+     
+</details>
+
+<details>
+     <summary>
+            1.89 (Oct 17, 2017)
+     </summary>
+     
+     - Halloween Event: Hallowkitty’s Halloween Bash
+     - Halloween Event: Murgoth Dungeon
+     - Halloween Event: Madhouse Dungeon
+     - Halloween Event: Dark Lords of Darkness
+     - Halloween Event: Halloween 2x EXP & Drop Weekends
+     - Additional Updates: Bug Fixes
+     - Additional Updates: UI Improvements
+     - Additional Updates: Balance Updates
+     - Other New Events: Sugar Rush Honey Flow
+     - Other New Events: Prism Perks
+     - Other New Events: Maple Music Festival
+     - Other New Events: Maplehood Watch
+     - Other New Events: Sunny Sunday Perk
+     - Other New Events: Cat of All Trades
+     - Other New Events: Spell Trace Fever Time
+     - Thanksgiving Events: Thanksgiving!
+     - Thanksgiving Events: Food Fighter
+     - Thanksgiving Events: Thanksgiving Turkey Egg Hunt
+     - Nova Events: Journey from Grandis to Maple World
+     - Nova Events: Nova Registration Event
+     - Nova Events: Nova Attendance Check
+     - Black Friday Events: Black Friday Hot Week
+     - Black Friday Events: Black Friday Big Spender
+     
+</details>
+
+<details>
+     <summary>
+            1.86 (Jun 20, 2017)
+     </summary>
+     
+     - New Content: New 5th Job Skills: V Matrix Update
+     - New Content: New 5th Job Skills: New Skills: All Jobs
+     - New Content: New 5th Job Skills: New Skills: Explorers
+     - New Content: New 5th Job Skills: New Skills: Cygnus Knights
+     - New Content: New 5th Job Skills: New Skills: Heroes
+     - New Content: New 5th Job Skills: New Skills: Demons
+     - New Content: New 5th Job Skills: New Skills: Resistance
+     - New Content: New 5th Job Skills: New Skills: Nova
+     - New Content: New 5th Job Skills: New Skills: Sengoku
+     - New Content: New 5th Job Skills: New Skills: Warrior Jobs
+     - New Content: New 5th Job Skills: New Skills: Magician Jobs
+     - New Content: New 5th Job Skills: New Skills: Bowman Jobs
+     - New Content: New 5th Job Skills: New Skills: Thief Jobs
+     - New Content: New 5th Job Skills: New Skills: Pirate Jobs
+     - Additional Updates: Legion System
+     - Additional Updates: Theme Dungeon: Omega Sector
+     - Additional Updates: Boss Lucid Hard Mode
+     - Additional Updates: Boss Changes
+     - Additional Updates: ‘A Better Maple’ System Changes
+     - Additional Updates: Mu Lung Dojo Formidable Opponent
+     - Additional Updates: Leafre Revamp
+     - Additional Updates: Jett Skill Revamp
+     - Additional Updates: Hayato Skill Revamp
+     - Additional Updates: New Star Force Maps
+     - Additional Updates: Bug Fixes
+     - Override Events: Breakthrough Override Event
+     - Override Events: Override Box Event
+     - Override Events: Override Coin Shop
+     - Override Events: Character Name Change Event
+     - Override Events: TakeOver Event
+     - Override Events: Override Saturday Perk Event
+     - Override Events: Override Hot Week
+     - Override Events: Override 100-Player Bingo
+     - Override Events: Override Mega Burning Project
+     - Override Events: Override Hot Week 2
+     - Other New Events: Legion Grand Opening Event
+     - Other New Events: Zero Character Creation
+     - Other New Events: Mu Lung Dojo Formidable Opponent Grand Opening Event
+     - Other New Events: 2x EXP & Drop Weekends
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Omega Sector Grand Opening Event
+     - Other New Events: M-Force Override Event
+     - Other New Events: Party Punks Monster Collection Event
+     - Other New Events: Sengoku High
+     - Other New Events: Elunarium Energy
+     - Other New Events: Otherworldly Luck
+     
+</details>
+
+<details>
+     <summary>
             1.85 (May 10, 2017)
      </summary>
      
@@ -23,7 +140,6 @@
      - Override Pre-Events: Override Mega Burning Project
      - Override Pre-Events: Override Attendance Check
      - Override Pre-Events: Override Hot Week
-
      
 </details>
 
@@ -1563,7 +1679,7 @@
 
 <details>
      <summary>
-            0.79 (11 Nov 2009)
+            0.79 (Nov 11, 2009)
      </summary>
  
      - A November to Remember Events
@@ -1578,7 +1694,7 @@
 
 <details>
      <summary>
-            0.78 (22 Oct 2009)
+            0.78 (Oct 22, 2009)
      </summary>
  
      - Emergency Patch
@@ -1593,7 +1709,7 @@
 
 <details>
      <summary>
-            0.77 (22 Oct 2009)
+            0.77 (Oct 22, 2009)
      </summary>
  
      - Halloween Events
@@ -1616,7 +1732,7 @@
 
 <details>
      <summary>
-            0.76 (24 Sep 2009)
+            0.76 (Sep 24, 2009)
      </summary>
  
      - Spirit Week Event
@@ -1628,7 +1744,7 @@
 
 <details>
      <summary>
-            0.75 (26 Aug 2009)
+            0.75 (Aug 26, 2009)
      </summary>
  
      - New Nexon Logo in Game
@@ -1643,7 +1759,7 @@
 
 <details>
      <summary>
-            0.74 (12 Aug 2009)
+            0.74 (Aug 12, 2009)
      </summary>
  
      - Bug Fix
@@ -1652,7 +1768,7 @@
 
 <details>
      <summary>
-            0.73 (29 Jul 2009)
+            0.73 (Jul 29, 2009)
      </summary>
  
      - Cygnus Knights Class
@@ -1669,7 +1785,7 @@
 
 <details>
      <summary>
-            0.72 (24 Jun 2009)
+            0.72 (Jun 24, 2009)
      </summary>
  
      - Temple of Time (Pink Bean)
@@ -1684,7 +1800,7 @@
 
 <details>
      <summary>
-            0.71 (17 Jun 2009)
+            0.71 (Jun 17, 2009)
      </summary>
  
      - Bug Fix
@@ -1694,7 +1810,7 @@
 
 <details>
      <summary>
-            0.70 (07 May 2009) Maple Story 4th Anniversary
+            0.70 (May 07, 2009) Maple Story 4th Anniversary
      </summary>
  
      - Birthday Patch
@@ -1705,7 +1821,7 @@
 
 <details>
      <summary>
-            0.69 (28 Apr 2009)
+            0.69 (Apr 28, 2009)
      </summary>
  
      - Goodbye GameGaurd
@@ -1715,7 +1831,7 @@
 
 <details>
      <summary>
-            0.68 (10 Apr 2009)
+            0.68 (Apr 10, 2009)
      </summary>
  
      - Bug Fixes
@@ -1724,7 +1840,7 @@
 
 <details>
      <summary>
-            0.67 (08 Apr 2009)
+            0.67 (Apr 08, 2009)
      </summary>
  
      - New Party Quest features
@@ -1743,7 +1859,7 @@
 
 <details>
      <summary>
-            0.66 (05 Mar 2009)
+            0.66 (Mar 05, 2009)
      </summary>
  
      - Crimsonwood Keep Party Quest
@@ -1755,7 +1871,7 @@
 
 <details>
      <summary>
-            0.65 (23 Jan 2009)
+            0.65 (Jan 23, 2009)
      </summary>
  
      - Emergency Patch
@@ -1765,7 +1881,7 @@
 
 <details>
      <summary>
-            0.64 (22 Jan 2009)
+            0.64 (Jan 22, 2009)
      </summary>
  
      - 7th Day Market
@@ -1779,7 +1895,7 @@
 
 <details>
      <summary>
-            0.63 (17 Dec 2008)
+            0.63 (Dec 17, 2008)
      </summary>
  
      - Christmas
@@ -1791,7 +1907,7 @@
 
 <details>
      <summary>
-            0.62 (12 Nov 2008)
+            0.62 (Nov 12, 2008)
      </summary>
  
      - Pirate Class
@@ -1804,7 +1920,7 @@
 
 <details>
      <summary>
-            0.61 (15 Oct 2008)
+            0.61 (Oct 15, 2008)
      </summary>
  
      - Pre Pirate Quests
@@ -1817,7 +1933,7 @@
 
 <details>
      <summary>
-            0.60 (10 Sep 2008)
+            0.60 (Sep 10, 2008)
      </summary>
  
      - Bug Fix
@@ -1828,7 +1944,7 @@
 
 <details>
      <summary>
-            0.59 (14 Aug 2008)
+            0.59 (Aug 14, 2008)
      </summary>
  
      - New World - Yellonde
@@ -1840,7 +1956,7 @@
 
 <details>
      <summary>
-            0.58 (09 Jul 2008)
+            0.58 (Jul 09, 2008)
      </summary>
  
      - Summer Updates
@@ -1850,7 +1966,7 @@
 
 <details>
      <summary>
-            0.57 (26 Jun 2008)
+            0.57 (Jun 26, 2008)
      </summary>
  
      - Bug fix
@@ -1859,7 +1975,7 @@
 
 <details>
      <summary>
-            0.56 (20 Jun 2008)
+            0.56 (Jun 20, 2008)
      </summary>
  
      - Ariant
@@ -1870,7 +1986,7 @@
 
 <details>
      <summary>
-            0.55 (22 May 2008) Maple Story 3rd Anniversary
+            0.55 (May 22, 2008) Maple Story 3rd Anniversary
      </summary>
  
      - Maple Birthday Patch
@@ -1882,7 +1998,7 @@
 
 <details>
      <summary>
-            0.54 (07 May 2008) [2]
+            0.54 (May 07, 2008) [2]
      </summary>
  
      - Showa
@@ -1891,7 +2007,7 @@
 
 <details>
      <summary>
-            0.53 (02 Apr 2008)
+            0.53 (Apr 02, 2008)
      </summary>
  
      - Maple Trading System (MTS)
@@ -1902,7 +2018,7 @@
 
 <details>
      <summary>
-            0.52 (19 Mar 2008)
+            0.52 (Mar 19, 2008)
      </summary>
  
      - Easter Event
@@ -1914,7 +2030,7 @@
 
 <details>
      <summary>
-            0.51 (14 Feb 2008)
+            0.51 (Feb 14, 2008)
      </summary>
  
      - Valentine's Day
@@ -1925,7 +2041,7 @@
 
 <details>
      <summary>
-            0.50 (31 Jan 2008)
+            0.50 (Jan 31, 2008)
      </summary>
  
      - Bug fix
