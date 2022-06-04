@@ -1,5 +1,92 @@
 <details>
      <summary>
+            1.85 (May 10, 2017)
+     </summary>
+     
+     - Re:ZERO Events: Re:ZERO Attendance Check Event
+     - Re:ZERO Events: Re:ZERO Reboot World Event
+     - Additional Updates: Meso Market
+     - Additional Updates: Bug Fixes
+     - New Events: New & Returning Players Event
+     - New Events: Discount Coupon Giveaway
+     - New Events: Hot Week
+     - New Events: Mechanical Hearts
+     - New Events: Dragon Boat Festival
+     - New Events: Mini-Game Station
+     - New Events: Jewel Crafting
+     - New Events: Spell Trace Fever Time
+     - New Events: Hunting Boost Haste Event
+     - New Events: Beast Tamer Character Creation
+     - New Events: 2x EXP & Drop Weekends
+     - Override Pre-Events: Override Registration Event
+     - Override Pre-Events: Journey to Override Event
+     - Override Pre-Events: Override Mega Burning Project
+     - Override Pre-Events: Override Attendance Check
+     - Override Pre-Events: Override Hot Week
+
+     
+</details>
+
+<details>
+     <summary>
+            1.84 (Feb 28, 2017)
+     </summary>
+     
+     - 12th Terrorversary: Night of the Living Bean
+     - Thursday the 12th Events: Burning Project
+     - Thursday the 12th Events: Freaky Frankenbalrog
+     - Thursday the 12th Events: Bizarre Balloon Bonanza
+     - Thursday the 12th Events: Maple Anniversary Museum
+     - Thursday the 12th Events: 12th Anniversary Box
+     - Thursday the 12th Events: Maple Rain
+     - Thursday the 12th Events: Curious Coin Shop
+     - Thursday the 12th Events: Anniversary Achievement Avalanche
+     - Thursday the 12th Events: Anniversary Attendance Check
+     - Thursday the 12th Events: 12th Anniversary Hot Week
+     - Thursday the 12th Weekend Events: Thursday the 12th Box
+     - Thursday the 12th Weekend Events: Thursday-Only Benefits
+     - Thursday the 12th Weekend Events: Thursday-Sunday Benefits
+     - Spring Events: Golden Rocket Rider
+     - Spring Events: Spring Heatwave
+     - Spring Events: The Great Easter Egg Hunt
+     - Spring Events: The Mad Bunny
+     - Spring Events: Golden Egg Coloring
+     - Other New Events: Tinkerer’s Chest
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: 2x EXP & Drop Weekends
+     - Other New Events: Cash Inventory Transfer Event
+     - Other New Events: Maple Leaf High
+     - Additional Updates: Bug Fixes
+     
+</details>
+
+<details>
+     <summary>
+            1.83 (Feb 28, 2017)
+     </summary>
+     
+     - New Content: Theme Dungeon: Kerning Tower
+     - New Content: ‘A Better Maple’ System Changes
+     - New Content: Maple Value Points (MVP) Service
+     - Additional Updates: Bug Fixes
+     - Additional Updates: Boss Von Leon Hard Mode
+     - Additional Updates: Aran and Xenon Quest Revamp
+     - New Events: Kerning Tower Opening Celebration
+     - New Events: Best Friends Forever
+     - New Events: Hasty Hunting
+     - New Events: March Attendance Check
+     - New Events: 2x EXP & Drop Weekends
+     - New Events: Hot Week
+     - New Events: Spell Trace Fever Time
+     - New Events: Artifact Hunt
+     - New Events: Steamed Bun Maestro
+     - New Events: Chocky Day
+     - New Events: Hot Week 2
+     
+</details>
+
+<details>
+     <summary>
             1.80 (Jan 17, 2017)
      </summary>
      
