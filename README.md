@@ -1224,7 +1224,7 @@
 
 <details>
      <summary>
-            0.99 (29 Jun 2011)
+            0.99 (Jun 29, 2011)
      </summary>
  
      - Age of Heros
@@ -1251,7 +1251,7 @@
 
 <details>
      <summary>
-            0.98 (25 May 2011)
+            0.98 (May 25, 2011)
      </summary>
  
      - Cake vs. Pie Town Battles Event
@@ -1264,7 +1264,7 @@
 
 <details>
      <summary>
-            0.97 (27 Apr 2011)
+            0.97 (Apr 27, 2011)
      </summary>
  
      - Anniversary
@@ -1281,7 +1281,7 @@
 
 <details>
      <summary>
-            0.96 (10 Mar 2011)
+            0.96 (Mar 10, 2011)
      </summary>
  
      - Ultimate Explorer
@@ -1305,7 +1305,7 @@
 
 <details>
      <summary>
-            0.95 (19 Jan 2011)
+            0.95 (Jan 19, 2011)
      </summary>
  
      - Mechanics
@@ -1321,7 +1321,7 @@
 
 <details>
      <summary>
-            0.94 (20 Dec 2010)
+            0.94 (Dec 20, 2010)
      </summary>
  
      - Resistance Class
@@ -1338,7 +1338,7 @@
 
 <details>
      <summary>
-            0.92 (23 Nov 2010)
+            0.92 (Nov 23, 2010)
      </summary>
  
      - Improve compatibility with modern Windows operating systems
@@ -1372,7 +1372,7 @@
 
 <details>
      <summary>
-            0.91 (27 Oct 2010)
+            0.91 (Oct 27, 2010)
      </summary>
  
      - Introducing eTracer
@@ -1386,7 +1386,7 @@
 
 <details>
      <summary>
-            0.90 (29 Sep 2010)
+            0.90 (Sep 29, 2010)
      </summary>
  
      - Ice Gorge PQ
@@ -1398,7 +1398,7 @@
 
 <details>
      <summary>
-            0.89 (19 Aug 2010) [R1]
+            0.89 (Aug 19, 2010) [R1]
      </summary>
  
      - OSSS Secret Base
@@ -1411,7 +1411,7 @@
 
 <details>
      <summary>
-            0.88 (21 Jul 2010)
+            0.88 (Jul 21, 2010)
      </summary>
  
      - Dual Blade Class
@@ -1430,7 +1430,7 @@
 
 <details>
      <summary>
-            0.87 (23 Jun 2010)
+            0.87 (Jun 23, 2010)
      </summary>
  
      - Bug Fix
@@ -1441,7 +1441,7 @@
 
 <details>
      <summary>
-            0.86 (16 Jun 2010)
+            0.86 (Jun 16, 2010)
      </summary>
  
      - Friend Finder
@@ -1460,7 +1460,7 @@
 
 <details>
      <summary>
-            0.85 (05 May 2010) Maple Story 5th Anniversary
+            0.85 (May 05, 2010) Maple Story 5th Anniversary
      </summary>
  
      - Birthday Patch
@@ -1483,7 +1483,7 @@
 
 <details>
      <summary>
-            0.84 (31 Mar 2010)
+            0.84 (Mar 31, 2010)
      </summary>
  
      - Evan Class
@@ -1504,7 +1504,7 @@
 
 <details>
      <summary>
-            0.83 (22 Feb 2010)
+            0.83 (Feb 22, 2010)
      </summary>
  
      - Kerning Square Mall
@@ -1520,7 +1520,7 @@
 
 <details>
      <summary>
-            0.82 (10 Feb 2010)
+            0.82 (Feb 10, 2010)
      </summary>
  
      - Mardi Gras Event
@@ -1532,7 +1532,7 @@
 
 <details>
      <summary>
-            0.81 (20 Jan 2010)
+            0.81 (Jan 20, 2010)
      </summary>
  
      - Version Up: Monster Survival and New Medal
@@ -1542,7 +1542,7 @@
 
 <details>
      <summary>
-            0.80 (10 Dec 2009)
+            0.80 (Dec 10, 2009)
      </summary>
  
      - Aran Class
