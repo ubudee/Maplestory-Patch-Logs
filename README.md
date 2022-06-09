@@ -2122,7 +2122,7 @@
 
 <details>
      <summary>
-            0.49 (23 Jan 2008)
+            0.49 (Jan 23, 2008)
      </summary>
  
      - Final Job Advancement
@@ -2139,7 +2139,7 @@
 
 <details>
      <summary>
-            0.48 (13 Dec 2007)
+            0.48 (Dec 13, 2007)
      </summary>
  
      - Christmas Event
@@ -2148,7 +2148,7 @@
 
 <details>
      <summary>
-            0.47 (15 Nov 2007)
+            0.47 (Nov 15, 2007)
      </summary>
  
      - Thanksgiving event
@@ -2157,7 +2157,7 @@
 
 <details>
      <summary>
-            0.46 (31 Oct 2007)
+            0.46 (Oct 31, 2007)
      </summary>
  
      - Bugfix
@@ -2166,7 +2166,7 @@
 
 <details>
      <summary>
-            0.45 (25 Oct 2007)
+            0.45 (Oct 25, 2007)
      </summary>
  
      - Bugfix
@@ -2175,7 +2175,7 @@
 
 <details>
      <summary>
-            0.44 (11 Oct 2007)
+            0.44 (Oct 11,  2007)
      </summary>
  
      - New World - Kradia
@@ -2185,7 +2185,7 @@
 
 <details>
      <summary>
-            0.43 (20 Sep 2007)
+            0.43 (Sep 20, 2007)
      </summary>
  
      - Bugfix patch
@@ -2194,7 +2194,7 @@
 
 <details>
      <summary>
-            0.42 (18 Sep 2007)
+            0.42 (Sep 18, 2007)
      </summary>
  
      - Henesys Party Quest
@@ -2204,7 +2204,7 @@
 
 <details>
      <summary>
-            0.41 (22 Aug 2007)
+            0.41 (Aug 22, 2007)
      </summary>
  
      - Mu Lung/Herb Town
@@ -2215,7 +2215,7 @@
 
 <details>
      <summary>
-            0.40 (26 Jul 2007)
+            0.40 (Jul 26, 2007)
      </summary>
  
      - New Leaf City
@@ -2224,7 +2224,7 @@
 
 <details>
      <summary>
-            0.39 (13 Jun 2007)
+            0.39 (Jun 13, 2007)
      </summary>
  
      - Amoria Party Quest
@@ -2234,7 +2234,7 @@
 
 <details>
      <summary>
-            0.38 (02 May 2007) Maple Story 2nd Anniversary
+            0.38 (May 02, 2007) Maple Story 2nd Anniversary
      </summary>
  
      - Birthday event
@@ -2243,7 +2243,7 @@
 
 <details>
      <summary>
-            0.37 (18 Apr 2007)
+            0.37 (Apr 18, 2007)
      </summary>
  
      - Removal of ch20
@@ -2253,7 +2253,7 @@
 
 <details>
      <summary>
-            0.36 (27 Mar 2007)
+            0.36 (Mar 27, 2007)
      </summary>
  
      - Bug fix
@@ -2262,7 +2262,7 @@
 
 <details>
      <summary>
-            0.35 (20 Mar 2007)
+            0.35 (Mar 20, 2007)
      </summary>
  
      - New World - Mardia
@@ -2278,7 +2278,7 @@
 
 <details>
      <summary>
-            0.34 (06 Feb 2007)
+            0.34 (Feb 06, 2007)
      </summary>
  
      - Guild Quest
@@ -2289,7 +2289,7 @@
 
 <details>
      <summary>
-            0.33 (11 Jan 2007)
+            0.33 (Jan 11, 2007)
      </summary>
  
      - Amoria Dungeon
@@ -2298,7 +2298,7 @@
 
 <details>
      <summary>
-            0.32 (06 Dec 2006)
+            0.32 (Dec 06, 2006)
      </summary>
  
      - Amoria
@@ -2308,7 +2308,7 @@
 
 <details>
      <summary>
-            0.31 (07 Nov 2006)
+            0.31 (Nov 07, 2006)
      </summary>
  
      - Thanksgiving event
@@ -2317,7 +2317,7 @@
 
 <details>
      <summary>
-            0.30 (17 Oct 2006)
+            0.30 (Oct 17, 2006)
      </summary>
  
      - Halloween event
@@ -2326,7 +2326,7 @@
 
 <details>
      <summary>
-            0.29 (12 Sep 2006)
+            0.29 (Sep 12, 2006)
      </summary>
  
      - New World - Bellocan
@@ -2336,7 +2336,7 @@
 
 <details>
      <summary>
-            0.28 (15 Aug 2006)
+            0.28 (Aug 15, 2006)
      </summary>
  
      - Deep Sea Gorge
@@ -2346,7 +2346,7 @@
 
 <details>
      <summary>
-            0.27 (27 Jul 2006)
+            0.27 (Jul 27, 2006)
      </summary>
  
      - Bug fix
@@ -2355,7 +2355,7 @@
 
 <details>
      <summary>
-            0.26 (26 Jul 2006)
+            0.26 (Jul 26, 2006)
      </summary>
  
      - Beginner Skills
@@ -2366,7 +2366,7 @@
 
 <details>
      <summary>
-            0.25 (28 Jun 2006)
+            0.25 (Jun 28, 2006)
      </summary>
  
      - Independence Day Event
@@ -2375,7 +2375,7 @@
 
 <details>
      <summary>
-            0.24 (08 Jun 2006)
+            0.24 (Jun 08, 2006)
      </summary>
  
      - Omega Sector
@@ -2384,7 +2384,7 @@
 
 <details>
      <summary>
-            0.23 (03 May 2006) Maple Story 1st Anniversary
+            0.23 (May 03, 2006) Maple Story 1st Anniversary
      </summary>
  
      - Zakum
@@ -2394,7 +2394,7 @@
 
 <details>
      <summary>
-            0.22 (18 Apr 2006)
+            0.22 (Apr 18, 2006)
      </summary>
  
      - Bug fix
@@ -2403,7 +2403,7 @@
 
 <details>
      <summary>
-            0.21 (05 Apr 2006)
+            0.21 (Apr 05, 2006)
      </summary>
  
      - Easter event
@@ -2412,7 +2412,7 @@
 
 <details>
      <summary>
-            0.20 (27 Mar 2006)
+            0.20 (Mar 27, 2006)
      </summary>
  
      - Bug fix
@@ -2421,7 +2421,7 @@
 
 <details>
      <summary>
-            0.19 (02 Mar 2006)
+            0.19 (Mar 02, 2006)
      </summary>
  
      - Ludibrium
@@ -2430,7 +2430,7 @@
 
 <details>
      <summary>
-            0.18 (16 Feb 2006)
+            0.18 (Feb 16, 2006)
      </summary>
  
      - New World - Khaini
@@ -2440,17 +2440,7 @@
 
 <details>
      <summary>
-            0.18 (16 Feb 2006)
-     </summary>
- 
-     - New World - Khaini
-     - End of Valentine's Day event
-     
-</details>
-
-<details>
-     <summary>
-            0.17 (09 Feb 2006)
+            0.17 (Feb 09, 2006)
      </summary>
  
      - PIN reset
@@ -2460,7 +2450,7 @@
 
 <details>
      <summary>
-            0.16 (23 Jan 06)
+            0.16 (Jan 23, 06)
      </summary>
  
      - Level 80/90/100 equips
@@ -2471,7 +2461,7 @@
 
 <details>
      <summary>
-            0.15 (27 Dec 2005)
+            0.15 (Dec 27, 2005)
      </summary>
  
      - Bug fix
@@ -2480,7 +2470,7 @@
 
 <details>
      <summary>
-            0.14 (21 Dec 2005)
+            0.14 (Dec 21, 2005)
      </summary>
  
      - End of thanksgiving event
@@ -2489,7 +2479,7 @@
 
 <details>
      <summary>
-            0.13 (30 Nov 2005)
+            0.13 (Nov 30, 2005)
      </summary>
  
      - New World - Windia
@@ -2501,7 +2491,7 @@
 
 <details>
      <summary>
-            0.12 (16 Nov 2005)
+            0.12 (Nov 16, 2005)
      </summary>
  
      - Security Pins
@@ -2511,7 +2501,7 @@
 
 <details>
      <summary>
-            0.12 (16 Nov 2005)
+            0.12 (Nov 16, 2005)
      </summary>
  
      - Security Pins
@@ -2521,7 +2511,7 @@
 
 <details>
      <summary>
-            0.11 (02 Nov 2005)
+            0.11 (Nov 02, 2005)
      </summary>
  
      - End of Halloween event
@@ -2530,7 +2520,7 @@
 
 <details>
      <summary>
-            0.10 (25 Oct 2005)
+            0.10 (Oct 25, 2005)
      </summary>
  
      - Halloween Quest
@@ -2539,7 +2529,7 @@
 
 <details>
      <summary>
-            0.09 (20 Oct 2005)
+            0.09 (Oct 20, 2005)
      </summary>
  
      - Bugfix
@@ -2548,7 +2538,7 @@
 
 <details>
      <summary>
-            0.08 (18 Oct 2005)
+            0.08 (Oct 18, 2005)
      </summary>
  
      - Improved version
@@ -2561,7 +2551,7 @@
 
 <details>
      <summary>
-            0.07 (8 Sep 2005)
+            0.07 (Sep 8, 2005)
      </summary>
  
      - New World - Broa
@@ -2571,7 +2561,7 @@
 
 <details>
      <summary>
-            0.06 (2 Aug 2005)
+            0.06 (Aug 2, 2005)
      </summary>
  
      - Mini games
@@ -2580,7 +2570,7 @@
 
 <details>
      <summary>
-            0.05 (14 Jul 2005)
+            0.05 (Jul 14, 2005)
      </summary>
  
      - Summer Items
@@ -2590,7 +2580,7 @@
 
 <details>
      <summary>
-            0.04 (28 Jun 2005)
+            0.04 (Jun 28, 2005)
      </summary>
 
      - Complete Version
@@ -2599,7 +2589,7 @@
 
 <details>
      <summary>
-           0.03 (26 May 2005)
+           0.03 (May 26, 2005)
      </summary>
      
      - Bugfix
@@ -2608,7 +2598,7 @@
 
 <details>
      <summary>
-           0.02 (11 May 2005)
+           0.02 (May 11, 2005)
      </summary>
      
      - Official open patch
