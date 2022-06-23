@@ -1,5 +1,162 @@
 <details>
      <summary>
+            1.95 (May 08, 2018)
+     </summary>
+     
+     - New Content: Fox Valley
+     - Additional Updates: Other Changes
+     - Additional Updates: Bug Fixes
+     - New Events: Pink Bean Character Creation
+     - New Events: Growing Gold
+     - New Events: Sunny Sunday Perks
+     - New Events: Hot Week
+     - New Events: Challenge! Rainbow Spectrum
+     - New Events: Pollo and Fritto's Hunting Week
+     - New Events: Spell Trace Fever Time
+     - New Events: High Noon Gunslinger
+     - New Events: Pink Bean's Mobile Mansion
+     - New Events: Zero Character Creation
+     - New Events: Zero Level Up
+     - New Events: Zero Missions
+     - Ark Events: Walk Through Maple World
+     - Ark Events: Ark Attendance Check
+     - Ark Events: Monster Hunting Community Event
+     
+</details>
+
+<details>
+     <summary>
+            1.94 (Feb 27, 2018)
+     </summary>
+     
+     - 13th Anniversary Events: 13th Anniversary Stardust
+     - 13th Anniversary Events: Planet Vita
+     - 13th Anniversary Events: Planet Minel
+     - 13th Anniversary Events: M-426
+     - 13th Anniversary Events: Aquaworld
+     - 13th Anniversary Events: Planet Glacius
+     - 13th Anniversary Events: Maple Galaxy Academy
+     - 13th Anniversary Events: Petite Planet
+     - 13th Anniversary Events: Planet Congestiopia
+     - 13th Anniversary Events: Galaxy Star Shop Part 1
+     - 13th Anniversary Events: Galaxy Star Shop Part 2
+     - 13th Anniversary Events: 13th Anniversary Achievements Part 1
+     - 13th Anniversary Events: 13th Anniversary Achievements Part 2
+     - 13th Anniversary Events: 13th Anniversary Sugar Time
+     - Additional Updates: MapleStory Logo
+     - Additional Updates: Maple Reward Point UI
+     - Additional Updates: Bug Fixes
+     - New Events: Hot Week
+     - New Events: Mega Burning Project
+     - New Events: Dice Master
+     - New Events: Cash Inventory Transfer Event
+     - New Events: Sunny Sunday Perks
+     - New Events: Spell Trace Fever Time
+     - New Events: Hot Week 2
+     
+</details>
+
+<details>
+     <summary>
+            1.93 (Feb 27, 2018)
+     </summary>
+     
+     - Evangelion Events: Dr. Kim’s Daily Quests
+     - Evangelion Events: Evangelion Pilot Daily Quests
+     - Evangelion Events: 4th Angel Invasion
+     - Evangelion Events: 6th Angel Invasion
+     - Evangelion Events: Evangelion Coin Shop
+     - Additional Updates: Achievement Updates
+     - Additional Updates: Skill Updates
+     - Additional Updates: Profession Updates
+     - Additional Updates: Chat Updates
+     - Additional Updates: Free Market Removal
+     - Additional Updates: Trade System Updates
+     - Additional Updates: Stellar Detectives Reopens
+     - Additional Updates: Showa Town Revamp
+     - Additional Updates: Other Improvements
+     - Additional Updates: Bug Fixes
+     - New Events: Rainbow Spectrum
+     - New Events: Sunny Sunday Perks
+     - New Events: Hot Week
+     - New Events: Spell Trace Fever Time
+     - New Events: Daily Goodies
+     - New Events: Stellar Detectives Reopen Event
+     - New Events: Pink Bean's Plum Petal Puffs
+     - New Events: April Fools' Hot Day
+     - Maple Film Festival Events: Maple Film Festival Passport
+     - Maple Film Festival Events: Monster Cabbie
+     - Maple Film Festival Events: Detective Kemdi
+     - Maple Film Festival Events: Spitfire
+     - Maple Film Festival Events: Deplorable Maple
+     - Maple Film Festival Events: Standoff
+     - Maple Film Festival Events: King of the Rings
+     
+</details>
+
+<details>
+     <summary>
+            1.92 (Jan 16, 2018)
+     </summary>
+     
+     - Showdown Events: Mechanical Hearts
+     - Showdown Events: The Legends Return!
+     - Showdown Events: Divine Intelligence
+     - New Year Events: New Year’s Preparation
+     - New Year Events: Magpie's Gratitude Box
+     - New Year Events: New Year’s Mini-Games
+     - New Year Events: New Year’s Achievements
+     - New Year Events: New Year's Coin Shop
+     - New Year Events: New Year Hot Week
+     - Lunar New Year Events: Daily Hong Bao
+     - Lunar New Year Events: 8-Blessing Ring Attendance Check
+     - Lunar New Year Events: Recapture Fireworks
+     - Lunar New Year Events: Vengeful Nyen
+     - Lunar New Year Events: Sugar Time
+     - Lunar New Year Events: Lunar New Year 2x EXP & Drop Weekend
+     - Lunar New Year Events: Lunar New Year Hot Week
+     - Additional Updates: Bug Fixes
+     - Additional Updates: Stellar Detectives
+     - Other New Events: Hasty Hunting
+     - Other New Events: Tinkerer’s Chest
+     - Other New Events: Sunny Sunday Perk
+     - Other New Events: Attendance Check
+     - Other New Events: Valentine's Day
+     - Other New Events: Maplehood Watch
+     - Other New Events: Cash Inventory Transfer
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Sengoku High
+     
+</details>
+
+<details>
+     <summary>
+            1.91 (Dec 13, 2017)
+     </summary>
+     
+     - New Content: Grand Athenaeum: Winter Bard
+     - Additional Updates: Bug Fixes
+     - Additional Updates: Reboot World Meso Drops
+     - Nova Events: 
+     - Nova Events: Illium Pre-Creation
+     - Nova Events: Mega Burning Project
+     - Nova Events: Step Up
+     - Nova Events: Hunter’s Arena
+     - Nova Events: Nova Hot Week 2
+     - Nova Events: Cadena and Illium Level 200 Rewards
+     - Holiday Events: Shining Santa Box
+     - Holiday Events: Winter Retreat
+     - Holiday Events: Winter Photo Card
+     - Other New Events: 2x EXP & Drop Sunday
+     - Other New Events: December Big Spender
+     - Other New Events: Sunny Sunday Perk
+     - Other New Events: Winter Bard Opening Event
+     - Other New Events: Beast Tamer Character Creation
+     
+</details>
+
+<details>
+     <summary>
             1.90 (Nov 28, 2017)
      </summary>
      
