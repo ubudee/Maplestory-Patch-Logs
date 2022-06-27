@@ -1,5 +1,187 @@
 <details>
      <summary>
+            2.00 (Nov 15, 2018)
+     </summary>
+     
+     - New Content: Maple Alliance Outpost
+     - New Content: Determination Gauge
+     - New Content: World Gauge
+     - New Content: Alliance Rank
+     - New Content: Alliance Skills
+     - New Content: Alliance Support
+     - New Content: Messenger of Darkness
+     - New Content: Living Chains
+     - New Content: Moonbridge
+     - Additional Updates: Skill Updates
+     - Additional Updates: Leveling Up Revamp
+     - Additional Updates: A Better Maple
+     - Additional Updates: Other Changes
+     - Additional Updates: Display Resolution Changes
+     - Additional Updates: Bug Fixes
+     - Additional Updates: Known Issues
+     - Maple Alliance Events: Gathering of Heroes
+     - Maple Alliance Events: Defense Mission: Scattered Determination
+     - Maple Alliance Events: Defense Mission: Save the Soldiers
+     - Maple Alliance Events: Defense Mission: Help from Above
+     - Maple Alliance Events: Alliance Supply Depot
+     - Other New Events: Tera Burning Project
+     - Other New Events: Zero Character Creation
+     - Other New Events: Maple Relay
+     - Other New Events: Sunny Sunday Perk
+     
+</details>
+
+<details>
+     <summary>
+            1.99 (Oct 03, 2018)
+     </summary>
+     
+     - New Content: Fairy Bros Daily Gift
+     - New Content: Skill Updates
+     - New Content: Boss Updates
+     - New Content: Will (Normal Mode)
+     - Additional Updates: Captain Vaga Closed
+     - Additional Updates: Singapore Closed
+     - Additional Updates: Other Changes
+     - Additional Updates: Bug Fixes
+     - Additional Updates: Known Issues
+     - Halloween Events: Ghoulbusters
+     - Halloween Events: Ghoulbusters Coin Shop
+     - Halloween Events: Halloween Hot Week
+     - Halloween Events: Halloween 2x EXP & Drop
+     - Other New Events: Infinite Pawsibilities
+     - Other New Events: Sunny Sunday Perk
+     - Other New Events: #Maple Hashtag
+     - Other New Events: Help the Toben Hair Hero
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Hasty Hunting
+     - Black Mage Pre-Events: Black Mage Hot Week
+     
+</details>
+
+<details>
+     <summary>
+            1.99 (Aug 28, 2018)
+     </summary>
+     
+     - New Content: Fairy Bros Daily Gift
+     - New Content: Skill Updates
+     - New Content: Boss Updates
+     - New Content: Will (Normal Mode)
+     - Additional Updates: Captain Vaga Closed
+     - Additional Updates: Singapore Closed
+     - Additional Updates: Other Changes
+     - Additional Updates: Bug Fixes
+     - Additional Updates: Known Issues
+     - Halloween Events: Ghoulbusters
+     - Halloween Events: Ghoulbusters Coin Shop
+     - Halloween Events: Halloween Hot Week
+     - Halloween Events: Halloween 2x EXP & Drop
+     - Other New Events: Infinite Pawsibilities
+     - Other New Events: Sunny Sunday Perk
+     - Other New Events: #Maple Hashtag
+     - Other New Events: Help the Toben Hair Hero
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Hasty Hunting
+     - Black Mage Pre-Events: Black Mage Hot Week
+     
+</details>
+
+<details>
+     <summary>
+            1.98 (Aug 28, 2018)
+     </summary>
+     
+     - Cardcaptor Sakura: Clear Card Events: Maple Monsters
+     - Cardcaptor Sakura: Clear Card Events: Hungry Kero-chan
+     - Cardcaptor Sakura: Clear Card Events: Commemorative Photograph
+     - Cardcaptor Sakura: Clear Card Events: Time to Return
+     - Additional Updates: Mr. Lee Airlines Closed
+     - Additional Updates: Bug Fixes
+     - Other New Events: Sunny Sunday Perk
+     - Other New Events: Hot Week
+     - Other New Events: Sengoku High
+     - Other New Events: Tomorrow's Another Day
+     - Other New Events: Divine Intelligence
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Bug Brawl
+     - Other New Events: Hot Week 2
+     - Other New Events: 2x EXP & Drop Weekend
+     
+</details>
+
+<details>
+     <summary>
+            1.97 (Jul 24, 2018)
+     </summary>
+     
+     - New Content: Monad
+     - New Content: Reboot (EU) World
+     - New Content: Star Force Revamp
+     - New Content: New Boss: Will
+     - New Content: Lab Server
+     - Additional Updates: Bug Fixes
+     - Monad Grand Opening Events: Monad Coin Shop Items
+     - Monad Grand Opening Events: Monad: The First Omen Event
+     - Monad Grand Opening Events: Monad Countdown Event
+     - Monad Grand Opening Events: Julieta Double Rewards Event
+     - Discovery Events: Discovery Glacier
+     - Discovery Events: Discovery Arena
+     - Discovery Events: Discovery Life
+     - Discovery Events: Discovery Dome
+     - Discovery Events: Discovery Desert
+     - Other New Events: Character Name Change Event
+     - Other New Events: Sunny Sunday Perk
+     - Other New Events: Mega Burning Project
+     - Other New Events: New Maple Leaf Sugar Time
+     - Other New Events: 2x EXP & Drop Weekend
+     - Other New Events: Ark Hot Week 3
+     - Other New Events: Maplehood Watch
+     - Other New Events: Cash Inventory Transfer Event
+     - Other New Events: Spell Trace Fever Time
+     
+</details>
+
+<details>
+     <summary>
+            1.96 (Jun 19, 2018)
+     </summary>
+     
+     - New Playable Character: Ark Intro
+     - New Playable Character: Ark Skills
+     - New Playable Character: Ark 5th Job
+     - New Content: V Care
+     - New Content: Grand Athenaeum: Shadow Alchemist
+     - New Content: New Morass Quests
+     - New Content: Esfera: Origin Sea
+     - New Content: Captain Vaga
+     - Additional Updates: Bonus Stats and Rebirth Flames
+     - Additional Updates: Nebulite Removal
+     - Additional Updates: Other Changes
+     - Additional Updates: Bug Fixes
+     - Ark Events: Ark Pre-Creation
+     - Ark Events: Ark Sugar Time
+     - Ark Events: Ark Coin Shop
+     - Ark Events: Ark Hot Week
+     - Discovery Events: Discovery Desert
+     - Discovery Events: Discovery Field
+     - Discovery Events: Discovery Viewpoint
+     - Discovery Events: Discovery Ocean
+     - Discovery Events: Discovery Treasure Ship
+     - Discovery Events: Discovery Glacier
+     - Discovery Events: Discovery Sky
+     - Discovery Events: Discovery Weather
+     - Other New Events: Mega Burning Project
+     - Other New Events: Tinkerer's Chest
+     - Other New Events: 2x EXP & Drop Weekend
+     - Other New Events: Sunny Sunday Perk
+     - Other New Events: Maple Relay
+     - Other New Events: Spell Trace Fever Time
+     
+</details>
+
+<details>
+     <summary>
             1.95 (May 08, 2018)
      </summary>
      
