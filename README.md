@@ -61,34 +61,6 @@
 
 <details>
      <summary>
-            1.99 (Aug 28, 2018)
-     </summary>
-     
-     - New Content: Fairy Bros Daily Gift
-     - New Content: Skill Updates
-     - New Content: Boss Updates
-     - New Content: Will (Normal Mode)
-     - Additional Updates: Captain Vaga Closed
-     - Additional Updates: Singapore Closed
-     - Additional Updates: Other Changes
-     - Additional Updates: Bug Fixes
-     - Additional Updates: Known Issues
-     - Halloween Events: Ghoulbusters
-     - Halloween Events: Ghoulbusters Coin Shop
-     - Halloween Events: Halloween Hot Week
-     - Halloween Events: Halloween 2x EXP & Drop
-     - Other New Events: Infinite Pawsibilities
-     - Other New Events: Sunny Sunday Perk
-     - Other New Events: #Maple Hashtag
-     - Other New Events: Help the Toben Hair Hero
-     - Other New Events: Spell Trace Fever Time
-     - Other New Events: Hasty Hunting
-     - Black Mage Pre-Events: Black Mage Hot Week
-     
-</details>
-
-<details>
-     <summary>
             1.98 (Aug 28, 2018)
      </summary>
      
