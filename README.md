@@ -1,5 +1,116 @@
 <details>
      <summary>
+            203 (Mar 05, 2019)
+     </summary>
+
+     - Retro World Events: Promote the Game!
+     - Retro World Events: Chief's Special Potion
+     - Retro World Events: Mercenary's Jump Training
+     - Retro World Events: Magician's Dodge Training
+     - Retro World Events: Demon King's Tower
+     - Retro World Events: Eliminate Bug Monsters!
+     - Retro World Events: Retro Reach
+     - Retro World Events: Call of the Goddess
+     - Retro World Events: Retro World Coin Shop
+     - Additional Updates: Bug Fixes
+     - Additional Updates: Other Changes
+     - Detective Rave's Case Notes: Theme Dungeon
+     - Detective Rave's Case Notes: Detective Rave Open Celebration Event
+     - Other New Events: Peplock Holmes Detective Office
+     - Other New Events: Spot the Difference
+     - Other New Events: Sunny Sunday Perk
+     - Other New Events: Hot Week
+     - Other New Events: Spell Trace Fever Time
+     
+</details>
+
+<details>
+     <summary>
+            202 (Jan 22, 2019)
+     </summary>
+
+     - New Content: Tenebris Available Permanently
+     - New Content: New Genesis Weapons
+     - New Content: Level Cap Increase
+     - Additional Updates: Achievement Updates
+     - Additional Updates: Skill Updates
+     - Additional Updates: Other Changes
+     - Additional Updates: Bug Fixes
+     - Maple Alliance Events: Fresh Start
+     - Maple Alliance Events: Alliance Victory Appreciation Gift
+     - Maple Alliance Events: Determination Exchange
+     - Maple Alliance Events: Alliance Supply Depot Extended
+     - Lunar New Year Events: Daily Gift
+     - Lunar New Year Events: Golden Pig Gift
+     - Lunar New Year Events: Gold Richie’s Lunar New Year Party
+     - Lunar New Year Events: Party Guest Kidnapping
+     - Lunar New Year Events: Video Message
+     - Lunar New Year Events: Fresh Dumplings
+     - Lunar New Year Events: 8-Blessing Ring
+     - Lunar New Year Events: Reclaim Fireworks
+     - Lunar New Year Events: Hong Bao Shop
+     - Utah's Farm Events: Auntie Anna's Amber Waves
+     - Utah's Farm Events: Gustav's Cattle Ranch
+     - Utah's Farm Events: Extreme Combine
+     - Utah's Farm Events: Cluck, Cluck, Bean Reverse
+     - Utah's Farm Events: Jewel Craft Ring
+     - Utah's Farm Events: My Farm Diary
+     - Utah's Farm Events: Utah's Bountiful Harvest
+     - Utah's Farm Events: Utah's Bumper Crop Gift
+     - Utah's Farm Events: Fruitful Bounty
+     - Utah's Farm Events: Utah’s Coin Shop
+     - Utah's Farm Events: Super Lucky Pig
+     - Other New Events: Zero Character Creation
+     - Other New Events: Sunny Sunday Perk
+     - Other New Events: Dark Lords of Darkness
+     - Other New Events: Choco Onslaught
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Cash Inventory Transfer Event
+     
+</details>
+
+<details>
+     <summary>
+            201 (Dec 11, 2018)
+     </summary>
+
+     - New Content: Labyrinth of Suffering
+     - New Content: New Boss: Verus Hilla
+     - New Content: Corrupted Warrior
+     - New Content: Determination Plunderer
+     - New Content: Limina
+     - New Content: Aura of Life
+     - New Content: Dark Ravine
+     - New Content: New Boss: Guard Captain Darknell
+     - New Content: New Boss: Black Mage
+     - Additional Updates: New 5th Job Skills
+     - Additional Updates: A Better Maple
+     - Additional Updates: Other Changes
+     - Additional Updates: Bug Fixes
+     - Maple Alliance Events: Defense Mission: Flame Bird Support
+     - Maple Alliance Events: Defense Mission: Twilight Defense
+     - Maple Alliance Events: Defense Mission: Cleansing Light
+     - Maple Alliance Events: Defense Mission: Battle at Sea
+     - Maple Alliance Events: Determination Unleashed
+     - Maple Alliance Events: Defense Mission: Remembering the Journey
+     - Holiday Events: Shining Santa Box
+     - Holiday Events: 2x EXP &amp; Drop
+     - Holiday Events: Christmas Sweetstravaganza Gift
+     - Holiday Events: Christmas Bounce
+     - Holiday Events: Christmas Cake Boss
+     - Holiday Events: Holiday Hot Week
+     - Holiday Events: New Year's Countdown
+     - Other New Events: Beast Tamer Character Creation
+     - Other New Events: December Big Spender Event
+     - Other New Events: Hot Time
+     - Other New Events: Sunny Sunday Perk
+     - Other New Events: Maple Relay 2
+     - Other New Events: Hot Week 2
+     
+</details>
+
+<details>
+     <summary>
             2.00 (Nov 15, 2018)
      </summary>
      
