@@ -1,5 +1,337 @@
 <details>
      <summary>
+            220 (Feb 02, 2021)
+     </summary>
+
+     - New Updates: Job Balances
+     - New Updates: Ursus Revamp
+     - New Updates: Boss Improvements
+     - New Updates: Quest &amp; Map Improvements
+     - New Updates: Item Improvements
+     - New Updates: Content Changes
+     - New Updates: System Changes
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - Ellinel Full Moon Party Events: Ellinel Full Moon Party
+     - Ellinel Full Moon Party Events: Search for Moon Candy
+     - Ellinel Full Moon Party Events: Star Balloon Pop
+     - Ellinel Full Moon Party Events: Phiny's Magic Wand
+     - Ellinel Full Moon Party Events: Celestial Cookie Flip
+     - Ellinel Full Moon Party Events: Uni-phoria
+     - Ellinel Full Moon Party Events: Potion Pyramid
+     - Ellinel Full Moon Party Events: Wisp Wallop
+     - Ellinel Full Moon Party Events: Moonlight Enhancement Shop
+     - Ellinel Full Moon Party Events: Cotton Candy Workshop
+     - Ellinel Full Moon Party Events: Tracy's Valentine Gifts
+     - Burning World Leap: Burning World Leap
+     - Other Events: Fairy Bros’ Golden Giveaway
+     - Other Events: Superior Engraved Gollux Pendant Exchange Extension
+     - Other Events: [Legion Arena] Spoils for the Victors!
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Time
+     
+</details>
+
+<details>
+     <summary>
+            219 (Dec 15, 2020)
+     </summary>
+
+     - New Updates: Reboot World Revamp
+     - New Updates: Familiar Improvements
+     - New Updates: Arcane River Theme Dungeon: Sellas, Where the Stars Rest
+     - New Updates: Sengoku Returns: The Asura Crisis
+     - New Updates: Content Changes
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - Awake Burning Events: Tera Burning Plus
+     - Awake Burning Events: Burning World Leap
+     - Awake Events: Star Force Enhancement Event
+     - Awake Events: [Awake] Awakening Scroll
+     - Awake Events: [Awake] Awakening Scroll Supplementary Training
+     - Awake Events: [Awake] Coin Shop
+     - Awake Events: [Awake] Meso Shop
+     - Awake Events: [Awake] Bamboo Shoot Shop
+     - Awake Events: [Awake] Decoration Shop
+     - Awake Events: [Awake] Sage's Treasure: Chun Gong's Sword
+     - Awake Events: [Awake] Sage's Treasure: Man Gong's Jewel
+     - Awake Events: [Awake] Intensive Training
+     - Awake Events: [Awake] So Gong's Treasure
+     - Awake Events: [Awake] Rock-Paper-Scissors
+     - Awake Events: [Awake] Bingo
+     - Holiday Events: Maple Globe
+     - Holiday Events: Merry Mapledays
+     - Holiday Events: Wonky the Fairy's Magic Lamp
+     - Other Events: Legion Arena
+     - Other Events: Zero Creation
+     - Other Events: Beast Tamer Creation
+     - Other Events: Maplehood Watch
+     - Other Events: Spiegelmann's Lucky Boxes
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Time
+     
+</details>
+
+<details>
+     <summary>
+            218 (Nov 17, 2020)
+     </summary>
+
+     - New Updates: New 5th Job Skills
+     - New Updates: Jett Skill Revamp
+     - New Updates: Job Balances
+     - New Updates: Better Maple Changes
+     - New Updates: Grand Athenaeum Episode 6: Sharenian Knights
+     - New Updates: Superior Engraved Gollux Pendant Exchange
+     - New Updates: MVP System Renewal
+     - New Updates: Skill Improvements
+     - New Updates: Quest Improvements
+     - New Updates: Item Improvements
+     - New Updates: Content Changes
+     - New Updates: System Changes
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - Awake Burning Events: Tera Burning Plus
+     - Awake Burning Events: Burning World: World Leap
+     - Awake Events: Awake Celebration Event
+     - Awake Events: [Awake] Awakening Scroll
+     - Awake Events: [Awake] Coin Shop
+     - Awake Events: [Awake] Meso Shop
+     - Awake Events: [Awake] Bamboo Shoot Shop
+     - Awake Events: [Awake] Decoration Shop
+     - Awake Events: [Awake] Sage Rock Training Grounds
+     - Awake Events: [Awake] Sage's Treasure: Baek Gong's Flute
+     - Awake Events: [Awake] Rock-Paper-Scissors
+     - Awake Events: [Awake] Bingo
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Time
+     
+</details>
+
+<details>
+     <summary>
+            217 (Oct 06, 2020)
+     </summary>
+
+     - New Updates: Content Changes
+     - New Updates: System Changes
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - Sengoku Returns: The Asura Crisis: The Asura Crisis
+     - Sengoku Returns: The Asura Crisis: Sengoku Scroll
+     - Sengoku Returns: The Asura Crisis: Ambush the Oda
+     - Sengoku Returns: The Asura Crisis: Yokai Advance
+     - Sengoku Returns: The Asura Crisis: Mana Battle
+     - Sengoku Returns: The Asura Crisis: Eliminate Oda Forces
+     - Sengoku Returns: The Asura Crisis: Stop Akechi Mitsuhide
+     - Other Events: Return to Prendergast Mansion
+     - Other Events: Haste Plus
+     - Other Events: Fairy Bros’ Golden Giveaway
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Time
+     - Other Events: Cash Inventory Transfer Event
+     
+</details>
+
+<details>
+     <summary>
+            216 (Aug 25, 2020)
+     </summary>
+
+     - New Updates: Content Changes
+     - New Updates: System Changes
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - Celestial Festival: Celestial Festival
+     - Celestial Festival: Celestial Rank
+     - Celestial Festival: Celestial Skills
+     - Celestial Festival: Celestial Main Events: Celestial Surge
+     - Celestial Festival: Celestial Main Events: Unending Night
+     - Celestial Festival: Celestial Main Events: The Umbra
+     - Celestial Festival: The Fire Thief
+     - Celestial Festival: Princess Parade
+     - Celestial Festival: Celestial Jackpot
+     - Celestial Festival: Ride the Hot-Air Balloon
+     - Burning World: World Leap
+     - Other Events: Fairy Bros’ Golden Giveaway
+     - Other Events: I Haven’t Done Anything
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Time
+     
+</details>
+
+<details>
+     <summary>
+            215 (Jul 21, 2020)
+     </summary>
+
+     - New Updates: Familiar System Reopening
+     - New Updates: Yum Yum Island
+     - New Updates: Content Changes
+     - New Updates: System Changes
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - Burning World: Burning World
+     - Burning World: World Leap
+     - Rise Salon: Eileen's Support
+     - Rise Salon: Daria's Gift
+     - Rise Salon: Rise Coin Express
+     - Rise Salon: Rise Fountain
+     - Rise Salon: Rise Stamp Shop
+     - Rise Salon: Rise Royal Shop
+     - Rise Salon: Rise Coin Shop
+     - Other Events: Bebe's Familiar Box
+     - Other Events: Guild Pride Title Distribution
+     - Other Events: Combo God Event
+     - Other Events: Moonbogglers
+     - Other Events: Maple Relay
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Time
+     
+</details>
+
+<details>
+     <summary>
+            214 (Jun 09, 2020)
+     </summary>
+
+     - New Playable Character: Adele!: Adele
+     - New Playable Character: Adele!: Adele Skills
+     - New Updates: Reverse City
+     - New Updates: Beast Tamer Skill Revamp
+     - New Updates: Kanna Skill Revamp
+     - New Updates: Boss Revamp
+     - New Updates: Map Activities Revamp
+     - New Updates: Guild Revamp
+     - New Updates: Maple Guide Revamp
+     - New Updates: Chat Emoticon
+     - New Updates: Quest Improvements
+     - New Updates: Item Improvements
+     - New Updates: Content Changes
+     - New Updates: System Changes
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - Rise Salon: Rise Banquet Hall
+     - Rise Salon: Rise Famous Painting
+     - Rise Salon: Rise Battlefield of Honor
+     - Rise Salon: Rise Battlefield of Honor - Rumble
+     - Rise Salon: Rise Field Hunt - Rising Knight Training
+     - Rise Salon: Rise Field Hunt - Arthur’s Salon Debut!
+     - Rise Salon: Rise Fountain
+     - Rise Salon: Rise Stamp Shop
+     - Rise Salon: Rise Royal Shop
+     - Rise Salon: Rise Coin Shop
+     - Other Events: Tera Burning Event
+     - Other Events: Adele Training Support Event
+     - Other Events: Random Familiar Buff Event
+     - Other Events: Beast Tamer Creation Event
+     - Other Events: Zero Creation Event
+     - Other Events: Maple Relay
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Time
+     
+</details>
+
+<details>
+     <summary>
+            213 (Apr 21, 2020)
+     </summary>
+
+     - New Updates: Familiar System Revamp
+     - New Updates: Gollux Content Revamp
+     - New Updates: Content Changes
+     - New Updates: System Changes
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - 15th Anniversary: Pixel Party Events: Mega Burning Project
+     - 15th Anniversary: Pixel Party Events: Anniversary Bonus Giveaway
+     - 15th Anniversary: Pixel Party Events: Anniversary 2x EXP &amp; Drop Event
+     - 15th Anniversary: Pixel Party Events: Honorary Pixel Hero
+     - 15th Anniversary: Pixel Party Events: Pixel Odyssey
+     - 15th Anniversary: Pixel Party Events: Pixel Roller Rink
+     - 15th Anniversary: Pixel Party Events: Pixel Sauna
+     - 15th Anniversary: Pixel Party Events: Lord Pixrog
+     - 15th Anniversary: Pixel Party Events: Monster Busters
+     - 15th Anniversary: Pixel Party Events: Pixel Warriors
+     - 15th Anniversary: Pixel Party Events: Silverbristle Goes Hog Wild!
+     - 15th Anniversary: Pixel Party Events: Papyrus of Luck
+     - 15th Anniversary: Pixel Party Events: The Legends Return! Star Hustle
+     - 15th Anniversary: Pixel Party Events: Monster Pyramid
+     - 15th Anniversary: Pixel Party Events: Maximum Impulse
+     - 15th Anniversary: Pixel Party Events: Wavy Watchtower
+     - 15th Anniversary: Pixel Party Events: Pixel Reverse Battle
+     - 15th Anniversary: Pixel Party Events: Pixel Up and Up
+     - 15th Anniversary: Pixel Party Events: Pixel Coconut Season
+     - 15th Anniversary: Pixel Party Events: Pixel Rock-Paper-Scissors
+     - 15th Anniversary: Pixel Party Events: Pixel Skies
+     - 15th Anniversary: Pixel Party Events: Pixel Supernatural Yut
+     - 15th Anniversary: Pixel Party Events: Pixel One Card
+     - 15th Anniversary: Pixel Party Events: Pixel Coin Express
+     - 15th Anniversary: Pixel Party Events: Pixel Coin Shop
+     - MapleStory 2 Welcome Events: Welcome Event
+     - MapleStory 2 Welcome Events: Maple Relay
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Time
+     
+</details>
+
+<details>
+     <summary>
+            212 (Mar 09, 2020)
+     </summary>
+
+     - New Updates: Maple Tour
+     - New Updates: Mu Lung Dojo Expansion
+     - New Updates: Ghost Park Ranked Mode
+     - New Updates: Job Balances
+     - New Updates: Content Changes
+     - New Updates: System Changes
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - MapleStory X ISEKAI QUARTET Events: Daily Requests
+     - MapleStory X ISEKAI QUARTET Events: Field Trips
+     - MapleStory X ISEKAI QUARTET Events: Isekai Match
+     - Goblin Full Moon Night Market Events: Bauble’s Jewelry Shop
+     - Goblin Full Moon Night Market Events: Smithy’s Forge
+     - Goblin Full Moon Night Market Events: Stitch’s Boutique
+     - Goblin Full Moon Night Market Events: Sweepy’s General Store
+     - Goblin Full Moon Night Market Events: Dok &amp; Kaebi’s Magic Batons
+     - Goblin Full Moon Night Market Events: Phan’s Goblin Baton
+     - Goblin Full Moon Night Market Events: Goblin Fireworks
+     - Goblin Full Moon Night Market Events: Meso-Raining Goblin Cloud
+     - Goblin Full Moon Night Market Events: Zzoblin’s Dream Emporium
+     - Goblin Full Moon Night Market Events: Blessing of the Goblin Statue
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Time
+     
+</details>
+
+<details>
+     <summary>
+            211 (Jan 27, 2020)
+     </summary>
+
+     - New Updates: System Changes
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - Extravagameza!: Divine Intelligence
+     - Extravagameza!: High Noon Gunslinger
+     - Extravagameza!: Snowdrift Lodge Downhill Battle
+     - Extravagameza!: Sunshower's Sweet Sounds
+     - Extravagameza!: Spot the Difference
+     - Extravagameza!: Crazy Splash
+     - Extravagameza!: 30-Player Dice
+     - Extravagameza!: MMF Limbo Rhythm
+     - Extravagameza!: Extravagameza Coin Shop
+     - Other Events: Fairy Bros' Golden Giveaway
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Time
+     - Mechanical Hearts: Mechanical Hearts: The Great Escape
+     
+</details>
+
+<details>
+     <summary>
             210 (Dec 17, 2019)
      </summary>
 
