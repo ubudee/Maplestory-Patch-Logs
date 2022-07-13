@@ -1,5 +1,175 @@
 <details>
      <summary>
+            210 (Dec 17, 2019)
+     </summary>
+
+     - New Updates: Masteria &amp; New Leaf City Revamp
+     - New Updates: Jett Skill Revamp
+     - New Updates: Content Changes
+     - New Updates: System Changes
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - Glory Events: Cernium
+     - Glory Events: Glory Guard Rank
+     - Glory Events: Glory 2x EXP &amp; Drop
+     - Glory Events: Glory Guard Sugar Time
+     - Glory Events: The Chosen One
+     - Glory Events: Glory Coin Bonanza
+     - Glory Events: Basic Mission: Nerota’s Relics
+     - Glory Events: Basic Mission: Clash on the Waves
+     - Glory Events: Basic Mission: The Spisan’s Request
+     - Glory Events: Basic Mission: Sea Assault
+     - Glory Events: Basic Mission: Investigate the Ancient Gods’ Power
+     - Glory Events: Elite Mission: Battle at the Ocean Bluff
+     - Glory Events: Elite Mission: Cernium Ramparts
+     - Glory Events: Elite Mission: Champion of Cernium
+     - Glory Events: Elite Mission: Clear Out the Ebonstar Soldiers
+     - Glory Events: Challenge Mission: Operation Siege Tank Annihilation
+     - Glory Events: Alliance Supply Depot
+     - Holiday Events: Camila’s Bakery
+     - Holiday Events: Scrumptious Cake Decorations
+     - Holiday Events: Sugar Cookie Blitz
+     - Holiday Events: Semi-Sweet Choco Chip Slime
+     - Holiday Events: Camila's Baked Goods
+     - Holiday Events: Baker’s Delight Outfits
+     - Holiday Events: Countdown
+     - Other Events: Hoyoung Level-Up Event
+     - Other Events: Maple Relay
+     - Other Events: Beast Tamer Creation Event
+     - Other Events: Zero Creation Event
+     - Other Events: Spell Trace Fever Time
+     - Other Events: Sunny Sunday
+     - Other Events: Cash Inventory Transfer Event
+     
+</details>
+
+<details>
+     <summary>
+            209 (Nov 18, 2019)
+     </summary>
+
+     - New Playable Character: Hoyoung: Hoyoung
+     - New Playable Character: Hoyoung: Hoyoung Skills
+     - New Updates: New 5th Job Skills
+     - New Updates: Better Maple Updates
+     - New Updates: Growth Improvements
+     - New Updates: Content Changes
+     - New Updates: System Changes
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - Glory Events: Aftermath
+     - Glory Events: Glory Pre-registration
+     - Glory Events: Glory Guard Rank
+     - Glory Events: Drill Hall
+     - Glory Events: Glory 2x EXP &amp; Drop
+     - Glory Events: Convergence
+     - Glory Events: Basic Mission: Neinheart's Request
+     - Glory Events: Basic Mission: Shattered Dimensions
+     - Glory Events: Basic Mission: Unstable Barrier
+     - Glory Events: Challenge Mission: Enchanted Golem Training Grounds
+     - Glory Events: Weekly Mission: Investigating Anomalies
+     - Glory Events: Alliance Supply Depot
+     - Other Events: Tera Burning
+     - Other Events: Extreme Breakthrough
+     - Other Events: Maple Relay
+     - Other Events: Spell Trace Fever Time
+     - Other Events: Sunny Sunday
+     
+</details>
+
+<details>
+     <summary>
+            208 (Sep 30, 2019)
+     </summary>
+
+     - New Updates: Cash Shop Revamp
+     - New Updates: Content Changes
+     - New Updates: System Changes
+     - New Updates: Job Balance Adjustments
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - The Story of Pebble and Wind Events: Scrapbook
+     - The Story of Pebble and Wind Events: Nature's Roar
+     - The Story of Pebble and Wind Events: Sketching the Traces of Nature
+     - The Story of Pebble and Wind Events: Sunshower's Sweet Sounds
+     - The Story of Pebble and Wind Events: Helping Cloudie Travel
+     - The Story of Pebble and Wind Events: Collecting Nature's Memories
+     - The Story of Pebble and Wind Events: Cleaning Up Debris
+     - The Story of Pebble and Wind Events: The Story of Pebble and Wind Coin Shop
+     - Halloween Events: Hallows Disco
+     - Halloween Events: Ghoulish Greetings
+     - Halloween Events: Ghoulish Meso Cascade Mount
+     - Halloween Events: Halloween Hasty Hunting
+     - Halloween Events: Halloween 2x EXP &amp; Drop Event
+     - Other Events: Maple Reward Point Rebate
+     - Other Events: Bard
+     - Other Events: Dark Lords of Darkness
+     - Other Events: Return of Toben Hair Hero
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Time
+     
+</details>
+
+<details>
+     <summary>
+            207 (Aug 26, 2019)
+     </summary>
+
+     - New Content: World Merges
+     - World Merge Events: EXP &amp; Drop Event
+     - World Merge Events: Mega Burning Event
+     - World Merge Events: Meso Support Event
+     - World Merge Events: Legion Event
+     - World Merge Events: World Commemorative Title
+     - World Merge Events: Other World Merge Events
+     - Other Events: Random Beauty Coupon Event
+     - Other Events: King of Crowns
+     - Other Events: Sunny Sunday
+     - Other Events: I Haven't Done Anything
+     - Other Events: Hot Week
+     - Other Events: Spell Trace Fever Time
+     - Other Events: Adventure Coin Shop
+     - Additional Updates: Bug Fixes
+     - Additional Updates: Known Issues
+     - Additional Updates: Other Changes
+     
+</details>
+
+<details>
+     <summary>
+            206 (Jul 22, 2019)
+     </summary>
+
+     - New Updates: Theme Dungeon: Partem Ruins
+     - New Updates: Beast Tamer Skill Updates
+     - New Updates: Jett Skill Updates
+     - Additional Updates: Content Changes
+     - Additional Updates: System Changes
+     - Additional Updates: Bug Fixes
+     - Additional Updates: Known Issues
+     - Adventure Island Events: Supernatural Yut
+     - Adventure Island Events: Reverse Battle
+     - Adventure Island Events: One Card
+     - Adventure Island Events: Adventure Sugar Time
+     - Adventure Island Events: Ancient Ruins Party Quest
+     - Adventure Island Events: Adventure Tier
+     - Adventure Island Events: When Golden Pigs Fly
+     - Adventure Island Events: Adventure Bingo
+     - Adventure Island Events: Adventure Rock-Paper-Scissors
+     - Adventure Island Events: Adventurer Appreciation Gift
+     - Adventure Island Events: Adventure EXP Pouch
+     - Other Events: Hero Squad: Immortal Gorgons
+     - Other Events: Double Mega Burning Project
+     - Other Events: Beast Tamer Creation Event
+     - Other Events: Party Point Merchant Coin Shop
+     - Other Events: Sunny Sundays
+     - Other Events: Maplehood Watch
+     - Other Events: Spell Trace Fever Time
+     
+</details>
+
+<details>
+     <summary>
             205 (Jun 11, 2019)
      </summary>
 
