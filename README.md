@@ -1,5 +1,94 @@
 <details>
      <summary>
+            205 (Jun 11, 2019)
+     </summary>
+
+     - New Playable Character: Pathfinder: Meet Pathfinder!
+     - New Playable Character: Pathfinder: Pathfinder Skills
+     - New Playable Character: Pathfinder: Pathfinder Pre-Creation Event
+     - New Updates: Theme Dungeon: Secret Forest of Elodin
+     - New Updates: Job Balance Adjustments
+     - New Updates: Kanna Class Revamp
+     - New Updates: Hayato Skill Revamp
+     - New Updates: Hayato &amp; Kanna Quest Revamp
+     - New Updates: Fury Totem
+     - New Updates: Erda Spectrum
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - Content Revamps: Job Quest Revamp
+     - Content Revamps: Lv. 30-59 Theme Dungeon Revamp
+     - Content Revamps: Lv. 140-200 Quest and Field Revamp
+     - Content Revamps: Daily Quest Revamp
+     - Content Revamps: Boss Revamp
+     - Content Revamps: Travel to Mushroom Shrine
+     - Content Revamps: Reboot World Changes
+     - Content Revamps: Other Content Changes
+     - System Revamps: Equipment Enhancement System Revamp
+     - System Revamps: Hyper Stats Revamp
+     - System Revamps: Star Force Field Revamp
+     - System Revamps: Arcane Power Field Revamp
+     - System Revamps: Legion System
+     - System Revamps: Other System Changes
+     - Adventure Island Events: Adventure Island
+     - Adventure Island Events: Adventure Tier
+     - Adventure Island Events: Adventure Pre-Registration
+     - Adventure Island Events: Adventure Canteen
+     - Adventure Island Events: Adventure Prep
+     - Adventure Island Events: Adventure: The Legends Return!
+     - Adventure Island Events: Adventure Bingo
+     - Adventure Island Events: Adventure Rock-Paper-Scissors
+     - Adventure Island Events: Adventure Decoder
+     - Adventure Island Events: Reverse Battle
+     - Adventure Island Events: One Card
+     - Adventure Island Events: Monsteropoly
+     - Adventure Island Events: Adventure Maplerunner
+     - Adventure Island Events: Adventure Step Up
+     - Adventure Island Events: Adventure Sugar Time
+     - Adventure Island Events: Brawlosseum
+     - Adventure Island Events: Adventure Coin Shop
+     - Other Events: Tera Burning Event
+     - Other Events: Hayato &amp; Kanna Revamp Event
+     - Other Events: Sengoku Era Revamp Celebration Gift
+     - Other Events: Zero Creation Event
+     - Other Events: 3x EXP &amp; Drop Event
+     - Other Events: Saturday 2x EXP &amp; Drop Events
+     - Other Events: Sunny Sundays
+     
+</details>
+
+<details>
+     <summary>
+            204 (Apr 23, 2019)
+     </summary>
+
+     - LINE FRIENDS X MapleStory Events: A Surplus of Snapshots
+     - LINE FRIENDS X MapleStory Events: Souvenir Collection
+     - LINE FRIENDS X MapleStory Events: Proactive Peacekeeping
+     - LINE FRIENDS X MapleStory Events: LINE FRIENDS Coin Shop
+     - 14th Anniversary Events: 14th Street Celebrity
+     - 14th Anniversary Events: Movie Star Pink Bean Creation
+     - 14th Anniversary Events: Chaos Pink Bean Theater
+     - 14th Anniversary Events: Club V
+     - 14th Anniversary Events: Override Fashion
+     - 14th Anniversary Events: FIREPOWER Mega Burning
+     - 14th Anniversary Events: Nova Planetarium
+     - 14th Anniversary Events: Restaurant RED
+     - 14th Anniversary Events: 2x EXP & Drop Event
+     - 14th Anniversary Events: Tempest Arcade
+     - 14th Anniversary Events: 14th Street Big Bang Attack
+     - 14th Anniversary Events: Renegade Fitness
+     - 14th Anniversary Events: Cafe Rising Heroes
+     - 14th Anniversary Events: Legends Tower 62
+     - 14th Anniversary Events: Ark Museum
+     - 14th Anniversary Events: Sunny Sunday
+     - 14th Anniversary Events: Big Bang Store
+     - Additional Updates: Bug Fixes
+     - Additional Updates: Gachapon Ticket Revamp
+     
+</details>
+
+<details>
+     <summary>
             203 (Mar 05, 2019)
      </summary>
 
