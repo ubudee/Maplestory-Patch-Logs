@@ -1,0 +1,15 @@
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\bin\Debug\Maplestory Patch Logs App.exe.config
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\bin\Debug\Maplestory Patch Logs App.exe
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\bin\Debug\Maplestory Patch Logs App.pdb
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\obj\Debug\Maplestory Patch Logs App.csproj.AssemblyReference.cache
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\obj\Debug\Maplestory Patch Logs App.csproj.SuggestedBindingRedirects.cache
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\obj\Debug\Maplestory_Patch_Logs_App.Form1.resources
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\obj\Debug\Maplestory_Patch_Logs_App.Properties.Resources.resources
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\obj\Debug\Maplestory Patch Logs App.csproj.GenerateResource.cache
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\obj\Debug\Maplestory Patch Logs App.csproj.CoreCompileInputs.cache
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\obj\Debug\Maplestory Patch Logs App.exe
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\obj\Debug\Maplestory Patch Logs App.pdb
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\bin\Debug\HtmlAgilityPack.dll
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\bin\Debug\HtmlAgilityPack.xml
+C:\Users\LurstanRahim\source\repos\Maplestory Patch Logs App\Maplestory Patch Logs App\obj\Debug\Maplestory Patch Logs App.csproj.CopyComplete
