@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GjFlTWeEMztizntTYNvRj7F6TJXpJAGjc/d7rEAL4pRhUUGWxIGuoMgAysULdE1WjY2cx/vR4Us43zCX50/tQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LurstanRahim\\source\\repos\\Maplestory Patch Logs\\Maplestory Patch Logs\\Maplestory Patch Logs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LurstanRahim\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512"
+  ],
+  "logs": []
+}
