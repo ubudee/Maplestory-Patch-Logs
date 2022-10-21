@@ -1,5 +1,101 @@
 <details>
      <summary>
+            234 (Jul 19, 2022)
+     </summary>
+
+     - New Updates: Content Changes
+     - New Updates: System Changes
+     - New Updates: Bug Fixes
+     - Night Troupe Events: Night Troupe
+     - Night Troupe Events: Festival Designer Rank
+     - Night Troupe Events: Festival Decorating
+     - Night Troupe Events: Night Troupe Main Attractions
+     - Night Troupe Events: Ride Attractions
+     - Night Troupe Events: Human Cannonball Attraction
+     - Night Troupe Events: Giant Iceberg Breaker Festival
+     - Night Troupe Events: Thrilling Glacier Diving
+     - Night Troupe Events: Sponsor the Festival with Barbara
+     - Night Troupe Events: Round-We-Go Bumper Car
+     - Night Troupe Events: Jackpot Spinner
+     - Other Events: Halloween Candy Party
+     - Other Events: Home: Halloween Episode
+     - Other Events: Fairy Bros' Golden Giveaway
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Event
+     - Other Events: Cash Inventory Transfer Event
+     
+</details>
+
+<details>
+     <summary>
+            234 (Jul 19, 2022)
+     </summary>
+
+     - New Updates: Mu Lung Dojo Revamp
+     - New Updates: Legion Rank Expansion
+     - New Updates: Better Maple
+     - New Updates: Kao’s Memory
+     - New Updates: Ellin Forest Revamp
+     - New Updates: Skill Improvements
+     - New Updates: Boss and Monster Improvements
+     - New Updates: Quest and Story Improvements
+     - New Updates: Item Improvements
+     - New Updates: Map Improvements
+     - New Updates: UI and Other Improvements
+     - New Updates: Content Changes
+     - New Updates: System Changes
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - Destiny Burning Events: Burning World Big Spender Event
+     - Destiny Burning Events: Burning World Leap
+     - Other Events: Maple Pop Star Dreams!
+     - Other Events: Spiegelmann's Starlight Box
+     - Other Events: Fairy Bros' Golden Giveaway
+     - Other Events: Toben Hair Hero's Special Private Course
+     - Other Events: Recommended Worlds Special Event: Burning World Leap Special Rewards
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Event
+     
+</details>
+
+<details>
+     <summary>
+            234 (Jul 19, 2022)
+     </summary>
+
+     - New Updates: Home: Miranda’s Shop
+     - New Updates: Home: Home Coin Shop
+     - New Updates: New Boss: Kalos
+     - New Updates: Karote, The Unending Tower
+     - New Updates: Eternal Equipment Set
+     - New Updates: Bug Fixes
+     - New Updates: Known Issues
+     - Destiny Burning Events: Tera Burning Plus
+     - Destiny Burning Events: Burning World: Burning World Step Up
+     - Destiny Burning Events: Burning World: Burning World EXP Event
+     - Destiny Burning Events: Burning World: Burning World Big Spender Event
+     - Destiny Burning Events: Burning World: Burning World Leap
+     - Starlight Symphony Events: Starlight Symphony
+     - Starlight Symphony Events: Starlight Chariot
+     - Starlight Symphony Events: Stellar Ensemble
+     - Starlight Symphony Events: Starlight Symphony, Assemble!
+     - Starlight Symphony Events: Gemini Match
+     - Starlight Symphony Events: Starlight Symphony Encore 
+     - Starlight Symphony Events: Melody Coin Shop
+     - Starlight Symphony Events: Harmony Coin Shop
+     - Other Events: Home Release Event
+     - Other Events: Maple M Link Daily Mission
+     - Other Events: Recommended Worlds Special Event
+     - Other Events: Beast Tamer Creation
+     - Other Events: Zero Creation
+     - Other Events: New Journey
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Event
+     
+</details>
+
+<details>
+     <summary>
             233 (Jun 14, 2022)
      </summary>
 
