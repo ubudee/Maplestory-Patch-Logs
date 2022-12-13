@@ -1,5 +1,38 @@
 <details>
      <summary>
+            237 (Nov 15, 2022)
+     </summary>
+
+     - Cygnus Knights Redux: Noblesse
+     - Cygnus Knights Redux: Dawn Warrior
+     - Cygnus Knights Redux: Blaze Wizard
+     - Cygnus Knights Redux: Wind Archer
+     - Cygnus Knights Redux: Night Walker
+     - Cygnus Knights Redux: Thunder Breaker
+     - Cygnus Knights Redux: Mihile
+     - New Updates: Monster Park Improvements
+     - New Updates: Monster Park Extreme
+     - New Updates: Boss Difficulty Adjustments
+     - New Updates: Map Changes
+     - New Updates: Other Changes
+     - New Updates: Monster Collection
+     - New Updates: Outfit Presets
+     - New Updates: NPC Improvements
+     - New Updates: Monster Improvements
+     - New Updates: Quality of Life Improvements
+     - New Updates: Item Improvements
+     - New Updates: UI Improvements
+     - New Updates: Job Balances
+     - New Updates: Better Maple
+     - New Updates: Bug Fixes
+     - Ignition Burning Events: Hyper Burning
+     - Ignition Burning Events: Burning World Step Up
+     - Ignition Burning Events: Burning World Leap
+     
+</details>
+
+<details>
+     <summary>
             236 (Oct 04, 2022)
      </summary>
 
