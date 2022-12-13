@@ -1,6 +1,6 @@
 <details>
      <summary>
-            234 (Jul 19, 2022)
+            236 (Oct 04, 2022)
      </summary>
 
      - New Updates: Content Changes
@@ -28,7 +28,7 @@
 
 <details>
      <summary>
-            234 (Jul 19, 2022)
+            235 (Aug 30, 2022)
      </summary>
 
      - New Updates: Mu Lung Dojo Revamp
