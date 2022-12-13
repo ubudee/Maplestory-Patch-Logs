@@ -28,6 +28,20 @@
      - Ignition Burning Events: Hyper Burning
      - Ignition Burning Events: Burning World Step Up
      - Ignition Burning Events: Burning World Leap
+     - Fireworks Festival Parade Events: Fireworks Festival Parade
+     - Fireworks Festival Parade Events: Ignition Highlight
+     - Fireworks Festival Parade Events: Flame Group Dance
+     - Fireworks Festival Parade Events: Sky Sovereign
+     - Fireworks Festival Parade Events: Star Bridge
+     - Fireworks Festival Parade Events: Spot the Difference
+     - Fireworks Festival Parade Events: Ignition Coin Shop
+     - Fireworks Festival Parade Events: Ignition Meso Shop
+     - Fireworks Festival Parade Events: Flare Coin Shop
+     - Other Events: Clover Guild
+     - Other Events: Honor and Pride
+     - Other Events: MapleStory Fest 2022 Package
+     - Other Events: Sunny Sunday
+     - Other Events: Spell Trace Fever Time
      
 </details>
 
